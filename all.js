@@ -29,7 +29,7 @@ xhr.onreadystatechange = function() {
         data: json,
         columns: [
           { "data": "Code" },
-          { "data": "Posotion"},
+          { "data": "Position"},
           { "data": "EnglishName" },
           { "data": "MandarineName" },
           { "data": "Contain"},
@@ -37,7 +37,11 @@ xhr.onreadystatechange = function() {
           { "data": "Price" },
           { "data": "Condition"},
           { "data": "Storage" },
-        ]
+        ],
+        "language": {
+          "url": "https://cdn.datatables.net/plug-ins/1.11.3/i18n/zh_Hant.json"
+        },
+        "charset": "utf8"
       });
     });
   }
