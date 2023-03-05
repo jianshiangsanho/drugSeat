@@ -1,5 +1,4 @@
 function csvToJson(csv) {
-  var lines = decodeURIComponent(escape(csv)).split('\n');
   var lines = csv.split('\n');
   var result = [];
   var headers = lines[0].split(',');
