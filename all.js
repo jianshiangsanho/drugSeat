@@ -26,8 +26,20 @@ xhr.onreadystatechange = function() {
     // 將轉換後的 JSON 對象導入 DataTables
     $(document).ready(function() {
       $('#example').DataTable({
-        data: json,
-        columns: [
+        "processing": true,
+        "deferRender": true,
+        "ajax": {
+          "url": "data.csv",
+          "dataType": "text",
+          "dataSrc": function(csv) {
+            var data = csvToJson(csv);
+            return data;
+          }
+        },
+        "language": {
+          "url": "https://cdn.datatables.net/plug-ins/1.11.3/i18n/zh_Hant.json"
+        },
+        "columns": [
           { "data": "Code" },
           { "data": "Position"},
           { "data": "EnglishName" },
@@ -38,10 +50,6 @@ xhr.onreadystatechange = function() {
           { "data": "Condition"},
           { "data": "Storage" },
         ],
-        "language": {
-          "url": "https://cdn.datatables.net/plug-ins/1.11.3/i18n/zh_Hant.json"
-        },
-        "charset": "utf8"
       });
     });
   }
