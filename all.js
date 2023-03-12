@@ -31,19 +31,18 @@ $(document).ready(function() {
     },
     "language": {
       "url": "https://cdn.datatables.net/plug-ins/1.11.3/i18n/zh_Hant.json"
-
     },
     "columns": [
-    { "data": "code"},
-    { "data": "position"},
-    { "data": "englishName"},
-    { "data": "mandarineName"},
-    { "data": "contain"},
-    { "data": "reseller"},
-    { "data": "price"},
-    { "data": "condition"},
-    { "data": "storage"}
+      { "data": "code"},
+      { "data": "position"},
+      { "data": "englishName"},
+      { "data": "mandarineName"},
+      { "data": "contain"},
+      { "data": "reseller"},
+      { "data": "price"},
+      { "data": "condition"},
+      { "data": "storage"}
     ],
+    "responsive": true
   });
 });
-
