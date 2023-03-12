@@ -34,15 +34,15 @@ $(document).ready(function() {
 
     },
     "columns": [
-      { "data": "code" },
-      { "data": "position"},
-      { "data": "englishName" },
-      { "data": "mandarineName" },
-      { "data": "contain"},
-      { "data": "reseller" },
-      { "data": "price" },
-      { "data": "condition"},
-      { "data": "storage" },
+      { "data": "Code", "defaultContent": ""  },
+    { "data": "Position", "defaultContent": ""  },
+    { "data": "englishName", "defaultContent": "" },
+    { "data": "MandarineName", "defaultContent": ""  },
+    { "data": "Contain", "defaultContent": ""  },
+    { "data": "Reseller" , "defaultContent": "" },
+    { "data": "Price", "defaultContent": ""  },
+    { "data": "Condition", "defaultContent": ""  },
+    { "data": "Storage", "defaultContent": ""  }
     ],
   });
 });
