@@ -34,15 +34,15 @@ $(document).ready(function() {
 
     },
     "columns": [
-      { "data": "Code", "defaultContent": ""  },
-    { "data": "Position", "defaultContent": ""  },
-    { "data": "englishName", "defaultContent": "" },
-    { "data": "MandarineName", "defaultContent": ""  },
-    { "data": "Contain", "defaultContent": ""  },
-    { "data": "Reseller" , "defaultContent": "" },
-    { "data": "Price", "defaultContent": ""  },
-    { "data": "Condition", "defaultContent": ""  },
-    { "data": "Storage", "defaultContent": ""  }
+    { "data": "Code"},
+    { "data": "Position"},
+    { "data": "englishName"},
+    { "data": "MandarineName"},
+    { "data": "Contain"},
+    { "data": "Reseller"},
+    { "data": "Price"},
+    { "data": "Condition"},
+    { "data": "Storage"}
     ],
   });
 });
