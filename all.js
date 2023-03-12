@@ -34,15 +34,15 @@ $(document).ready(function() {
 
     },
     "columns": [
-    { "data": "Code"},
-    { "data": "Position"},
+    { "data": "code"},
+    { "data": "position"},
     { "data": "englishName"},
-    { "data": "MandarineName"},
-    { "data": "Contain"},
-    { "data": "Reseller"},
-    { "data": "Price"},
-    { "data": "Condition"},
-    { "data": "Storage"}
+    { "data": "mandarineName"},
+    { "data": "contain"},
+    { "data": "reseller"},
+    { "data": "price"},
+    { "data": "condition"},
+    { "data": "storage"}
     ],
   });
 });
