@@ -33,15 +33,15 @@ $(document).ready(function() {
       "url": "https://cdn.datatables.net/plug-ins/1.11.3/i18n/zh_Hant.json"
     },
     "columns": [
-      { "data": "code"},
-      { "data": "position"},
-      { "data": "englishName"},
-      { "data": "mandarineName"},
-      { "data": "contain"},
-      { "data": "reseller"},
-      { "data": "price"},
-      { "data": "condition"},
-      { "data": "storage"}
+      { "data": "健保碼"},
+      { "data": "位置"},
+      { "data": "英文商品名"},
+      { "data": "中文商品名"},
+      { "data": "成分"},
+      { "data": "供應商"},
+      { "data": "價格"},
+      { "data": "適應症"},
+      { "data": "庫存"}
     ],
     "responsive": true
   });
