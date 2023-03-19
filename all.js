@@ -21,6 +21,8 @@ $(document).ready(function() {
   $('#example').DataTable({
     "processing": true,
     "deferRender": true,
+    "responsive": true,
+    "suppressWarnings": true,
     "ajax": {
       "url": "data.tsv",
       "dataType": "text",
@@ -43,7 +45,5 @@ $(document).ready(function() {
       { "data": "適應症"},
       { "data": "庫存"},
     ],
-    "responsive": true,
-    "suppressWarnings": true
   });
 });
