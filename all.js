@@ -37,11 +37,11 @@ $(document).ready(function() {
       { "data": "位置"},
       { "data": "英文商品名"},
       { "data": "中文商品名"},
-      { "data": "成分"},
+      /*{ "data": "成分"},
       { "data": "供應商"},
       { "data": "價格"},
       { "data": "適應症"},
-      { "data": "庫存"}
+      { "data": "庫存"}*/
     ],
     "responsive": true,
     "suppressWarnings": true
