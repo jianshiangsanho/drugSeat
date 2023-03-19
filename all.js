@@ -35,15 +35,15 @@ $(document).ready(function() {
       "url": "https://cdn.datatables.net/plug-ins/1.11.3/i18n/zh_Hant.json"
     },
     "columns": [
-      { "data": "健保碼"},
-      { "data": "位置"},
-      { "data": "英文商品名"},
-      { "data": "中文商品名"},
-      { "data": "成分"},
-      { "data": "供應商"},
-      { "data": "價格"},
-      { "data": "適應症"},
-      { "data": "庫存"},
+      { "data": "健保碼", "defaultContent": "" },
+      { "data": "位置", "defaultContent": "" },
+      { "data": "英文商品名", "defaultContent": "" },
+      { "data": "中文商品名", "defaultContent": "" },
+      { "data": "成分", "defaultContent": "" },
+      { "data": "供應商", "defaultContent": "" },
+      { "data": "價格", "defaultContent": "" },
+      { "data": "適應症", "defaultContent": "" },
+      { "data": "庫存", "defaultContent": "" },
     ],
   });
 });
