@@ -43,6 +43,7 @@ $(document).ready(function() {
       { "data": "適應症"},
       { "data": "庫存"}
     ],
-    "responsive": true
+    "responsive": true,
+    "suppressWarnings": true
   });
 });
