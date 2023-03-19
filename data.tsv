@@ -171,7 +171,7 @@ AC59415100	桌上藥藍	Amlos	安洛適5mg	Amoldipine 5MG	永茂	$40/排	高血�
 AC59841100	桌上藥藍	CO-VOSAA	可汎穩壓 80/12.5	HYDROCHLOROTHIAZIDE/VALSARTAN	中國化學	$60/排	高血壓	
 AC60201100	桌上藥藍	Co-Midis	倍壓妥錠 80/5mg	Telmisartan/Amoldipine	生達	$120/排	高血壓	有
 BA25798100	桌上藥藍	Robestar	魯士定膜衣錠10mg	ROSUVASTATIN	諾華	$　　/排	高血脂	有
-BA26206100	桌上藥藍	Letrozole	利妥柔艾威群FCT-2.5mg	LETROZOLE 2.5mg	美時	$500/排	乳癌	有
+BA26206100	桌上藥藍	Letrozole	利妥柔"艾威群"FCT-2.5mg	LETROZOLE 2.5mg	美時	$500/排	乳癌	有
 BC09147100	桌上藥藍	Imuran	移護寧50mg	Azathioprine	安沛	$18/粒	紅斑性狼瘡	有
 BC19626100	桌上藥藍	SIRDALUD	鬆得樂 2mg	TIZANIDINE 2mg	諾華	$　　/排		
 BC20198100	桌上藥藍	PROSCAR	波斯卡 5mg	FINASTERIDE 5mg	默沙東	$　　/排	攝護腺肥大	
@@ -254,7 +254,7 @@ AC15387100	H架	NAPOSIN	能百鎮錠250mg
 AC31676100	H架	Compesolon	康速龍錠5mg					
 AC42754100	H架	EURICON 	優力康錠50mg					
 AC43074100	H架	TONSARIC	痛酸立克100mg					
-AC45267100	H架	U-CHU ACEO	痛立安長效膠囊90mg					
+AC45267100	H架	"U-CHU" ACEO	痛立安長效膠囊90mg					
 NC02531100	H架	DONISON	樂爾爽					
 A019353100	I架	STAZYME	速泰消腸溶錠					
 A020707100	I架	DEPYRETIN 	得百利寧錠	ACETAMINOPHEN 500MG	榮民			
@@ -327,7 +327,7 @@ BC23952100	J架	AVODART SOFT	適尿通軟膠囊0.5mg
 BC24025100	J架	ASPIRIN	阿斯匹林腸溶膜衣錠100mg					
 BC26216100	J架	Betmiga	貝坦利持續性藥效錠50mg					
 BC26217100	J架	Betmiga	貝坦利持續性藥效錠25mg					
-		Glustrong	骨永壯膠囊250mg		永信	$20/排		
+無健保給付		Glustrong	骨永壯膠囊250mg		永信	$20/排		
 A000096100		Menna	明那膠囊50mg			$20/排		
 A001713100		Enzyme	複方酵素錠10mg		回春堂	$50/排		
 A012556109		ShecoGranules	捨咳顆粒8mg			$10/包		
@@ -354,6 +354,7 @@ AB440911G0		Mephenoxalone	美飛舒肌錠200mg		五洲	$20/排
 AB44434100		Delibs	免腸躁膜衣錠50mg		衛達	$70/排		
 AB44468100		Felopine F.R.F.C	紛落5mg		十安	$20/排		
 AB44619100		Betazolol	倍舒樂20mg		信東	$120/盒		
+AB45348100		Biso	百適歐膜衣錠5mg		健喬	$20/排		
 AB46016100		Tamlosin	暢利淨持續釋放膠囊0.2mg		生達	$5/顆		
 AB46749100		Epilramate	克癇膜衣錠100mg		安成	$1060/盒		
 AB471471G0		Picetam	必舒坦膜衣錠1200mg			$25/排		
@@ -513,7 +514,7 @@ AC56778100		Salicret	液泌快膜衣錠5mg			$20/粒
 AC57130100		Rotlip	洛脂平膜衣錠10mg			$180/盒		
 AC571471G0		Alledine	敏帝膜衣錠60mg		永信	$25/排		
 AC57731100		Rakinson	律莎錠1mg			$2500/盒		
-AC57819100		Clopidogrel	可諾通艾威群F.C75mg		美時	$570/排		
+AC57819100		Clopidogrel	可諾通"艾威群"F.C75mg		美時	$570/排		
 AC578911G0		Dipyridamole	所雷帝糖衣錠25mg		中化	$20/排		
 AC582401G0		Tofranil	妥富腦糖衣錠10mg		美納里尼	$20/排		
 AC585341G0		Metformin	寬樂醣膜衣錠500mg		中化	$15/排		
@@ -670,6 +671,7 @@ NC06263100		Bismuth	次碳酸鉍錠0.324g		人人	$2/顆
 NC062711G0		Colchicine	秋水仙鹼片0.5mg		健喬	$20/排		
 NC081381G0		Tricozide	多利固財2mg			$30/排		
 X000194100		Digosin TAB-0.25mg			韋淳	$5/粒		
+		Vioment	整腸錠			$1/粒		
 AC58340100	J架	MONKAST F.C.	樂息喘膜衣錠10mg					
 BC22064100	J架	PROZAC	百憂解錠20mg					
 BC22208100	J架	TEGRETOL	癲通錠200mg					
@@ -706,4 +708,4 @@ AC55118100	J架	URIEF	優列扶膠囊4mg
 AC47092100	J架	NILASEN	寧耳眩錠16mg					
 AC47232100	J架	NILASEN	寧耳眩錠24mg					
 AB49656100	J架	MIRTAPINE	美妥平口溶錠30mg					
-AC41488100	J架	FYLIN RETARD F.C.	暢循持續性膜衣錠400mg					有
+AC41488100	J架	FYLIN RETARD F.C.	暢循持續性膜衣錠400mg					
