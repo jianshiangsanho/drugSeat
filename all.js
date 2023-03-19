@@ -41,7 +41,7 @@ $(document).ready(function() {
       { "data": "供應商"},
       { "data": "價格"},
       { "data": "適應症"},
-      { "data": "庫存"}
+      { "data": "庫存"},
     ],
     "responsive": true,
     "suppressWarnings": true
