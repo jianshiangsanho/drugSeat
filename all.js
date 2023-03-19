@@ -8,7 +8,7 @@ function tsvToJson(tsv) {
     var currentline = lines[i].split('\t');
 
     for (var j = 0; j < headers.length; j++) {
-      obj[headers[j]] = currentline[j];
+      obj[headers[j]] = currentline[j] || null; // 使用 null 來代表缺失值
     }
 
     result.push(obj);
