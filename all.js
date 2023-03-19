@@ -1,11 +1,11 @@
-function csvToJson(csv) {
-  var lines = csv.split('\n');
+function tsvToJson(tsv) {
+  var lines = tsv.split('\n');
   var result = [];
-  var headers = lines[0].split(',');
+  var headers = lines[0].split('\t');
 
   for (var i = 1; i < lines.length; i++) {
     var obj = {};
-    var currentline = lines[i].split(',');
+    var currentline = lines[i].split('\t');
 
     for (var j = 0; j < headers.length; j++) {
       obj[headers[j]] = currentline[j];
@@ -22,10 +22,10 @@ $(document).ready(function() {
     "processing": true,
     "deferRender": true,
     "ajax": {
-      "url": "data.csv",
+      "url": "data.tsv",
       "dataType": "text",
-      "dataSrc": function(csv) {
-        var data = csvToJson(csv);
+      "dataSrc": function(tsv) {
+        var data = tsvToJson(tsv);
         return data;
       }
     },
