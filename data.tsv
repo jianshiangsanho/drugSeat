@@ -471,7 +471,7 @@ AC57114100	I架	Amlodipine 	安壓得穩錠5mg
 AC57117100	J架	Glimepiride	穩佳醣錠2mg					
 AC57127100	J架	Fexofenadine	飛敏耐膜衣錠60mg					
 AC57128100	桌上藥藍	Carvedilol	壓落保錠25mg	Carvedilol 25mg	中化	$20/排	高血壓	有
-AC57130100		Rotlip	洛脂平膜衣錠10mg			$180/盒		
+AC57130100	N架	Rotlip	洛脂平膜衣錠10mg			$180/盒		
 AC571471G0		Alledine	敏帝膜衣錠60mg		永信	$25/排		
 AC571721G0	桌上藥藍	Eutomin	優糖平錠 850mg	Metformin 850mg	優良	$25/排	糖尿病	有
 AC57216100	桌上藥藍	Linicor	理脂 500/20mg	Lovastatin/Niacin	東生華	$150/排	高血脂	有
@@ -511,7 +511,7 @@ AC59802100	瓶裝藥	K-SUPPLY	益鉀錠595mg
 AC59841100	桌上藥藍	CO-VOSAA	可汎穩壓 80/12.5	HYDROCHLOROTHIAZIDE/VALSARTAN	中國化學	$60/排	高血壓	
 AC60201100	桌上藥藍	Co-Midis	倍壓妥錠 80/5mg	Telmisartan/Amoldipine	生達	$120/排	高血壓	有
 B018797100	瓶裝藥	SENOKOT	散肚祕錠					
-B020548100		Tambocor	律博克錠100mg			$700/盒		
+B020548100	N架	Tambocor	律博克錠100mg			$700/盒		
 BA24468100	J架	Baraclude	貝樂克膜衣錠1mg					
 BA24469100	J架	Baraclude	貝樂克膜衣錠0.5mg					
 BA24876100		Amaryl M	美爾胰膜衣錠2/500mg		賽諾菲	$120/盒		
@@ -560,8 +560,8 @@ BC22097100	桌上藥藍	FOLIROMIN	服樂明膜衣錠５０公絲	SODIUM FERROUS 
 BC221591G0	J架	TENORMIN	天諾敏錠100mg					
 BC22208100	J架	TEGRETOL	癲通錠200mg					
 BC22462100		Femara	復乳納膜衣錠2.5mg		諾華	$1400/盒		
-BC22508100		Topamax	妥泰膜衣錠100mg			$1800/盒		
-BC22509100		Topamax 	妥泰膜衣錠 25mg			$420/盒		
+BC22508100	N架	Topamax	妥泰膜衣錠100mg			$1800/盒		
+BC22509100	N架	Topamax 	妥泰膜衣錠 25mg			$420/盒		
 BC22535100	桌上藥藍	LASIX	來適泄錠40mg	FUROSEMIDE40mg	賽諾菲	$35/排	利尿	有
 BC225931G0	抽屜藥袋	Atanaal	壓達能5毫克	Nifedipine 5mg	曼哈頓	$30/排	高血壓	有
 BC225931G0	I架	ATANAAL	壓達能軟膠囊5mg					
@@ -582,7 +582,8 @@ BC22863100		Exelon	憶思能膠囊4.5mg		諾華	$900/盒
 BC22882100		Requip	力必平膜衣錠0.25mg			$150/盒		
 BC22883100		Requip	力必平膜衣錠1mg			$350/盒		
 BC22920100		Etumine	意妥明40mg		吉富	$70/排		
-BC22997100		Progor	保樂康緩釋膠囊180mg			$300/盒		
+BC23001100	N架	PROGOR	保樂康緩釋膠囊120mg					
+BC22997100	N架	Progor	保樂康緩釋膠囊180mg			$300/盒		
 BC23016100	I架	ALLEGRA	艾來60MG					
 BC23086100		Prograf	普樂可復膠囊0.5mg			$800/排		
 BC23097100		Aromasin	諾曼癌素25mg		輝瑞	$1800/盒		
@@ -638,7 +639,11 @@ BC24732100		Invega	思維佳持續性藥效錠3mg			$2500/盒
 BC24750100		Luvox	無鬱寧膜衣錠50mg			$300/盒		
 BC24770100		Certican 	卓定康錠0.25mg		諾華	$100/排		
 BC24824100		Exforge	易安穩膜衣錠5/80mg		諾華	$300/盒		
-BC24886100		Seroquel XR	思樂康持續錠300mg			$60/排		
+BC24887100	N架	Seroquel XR	思樂康持續錠200mg			$60/排		
+BC22542100	N架	SEROQUEL	思樂康膜衣錠100mg					
+BC22543100	N架	SEROQUEL	思樂康膜衣錠25mg					
+BC22544100	N架	SEROQUEL	思樂康膜衣錠200mg					
+BC25001100	N架	SEROQUEL XR	思樂康持續錠50mg					
 BC24967100	桌上藥藍	Carvedilol Hexal 25mg	卡菲蒂羅錠25mg	Carvedilol 25mg	諾華	$350/盒	高血壓	有
 BC25021100		Minirin	迷你寧凍晶口溶錠60ug			$1600/盒		
 BC25046100		Acertil Plus	雅施達加強錠5/1.25mg		施維雅	$10/顆		
@@ -684,7 +689,9 @@ BC26552100	桌上藥藍	Ezetimibe	脂易穩錠 10mg	EZETIMIBE 10mg	諾華	$　�
 BC26631100		Dicetel	得舒特膜衣錠100mg		亞培	$260/盒		
 BC26668100	桌上藥藍	Latuda	樂途達錠40mg	LURASIDONE	台灣住友	$1600/盒	思覺失調	有
 BC26671100		Entresto	健安心膜衣錠200mg		諾華	$5000/盒		
-BC26870100		Rytmonorm SR	心利正膠囊325mg			$150/排		
+BC19918100	N架	Rytmonorm 	心利正膠囊150mg			$150/排		
+BC26869100	N架	Rytmonorm SR	心利正膠囊225mg			$150/排		
+BC26870100	N架	Rytmonorm SR	心利正膠囊325mg			$150/排		
 BC26950100		Canaglu	可拿糖膜衣錠100mg		台田	$960/盒		
 BC26996100		Brintellix	敏特思F.C.10mg		禾利行	$1100/盒		
 BC27073100		Glyxambi	糖順平膜衣錠25/5mg			$1300/盒		
@@ -728,3 +735,23 @@ AC58817100	N架	TAMOKAS	益利舒持續性藥效膜衣錠0.4mg
 BC27752100	N架	Rasteride	理得順軟膠囊0.5mg					
 AA48730100	N架	Thrombifree	健克栓膜衣錠75mg					
 AB49454100	N架	PRATIN	脂樂潔					
+BC25446100	N架	TWYNSTA	倍必康平錠80/5mg					
+BC21536100	N架	SEROXAT	克憂果20mg					
+BC27467100	N架	QTERN	控糖穩膜衣錠5mg/10mg					
+AA57372100	N架	Pitator	必抑脂膜衣錠2					
+AA57802100	N架	ROTY	諾脂替膜衣錠10mg					
+AA57843100	N架	ROTY	諾脂替膜衣錠5mg					
+BC18279100	N架	PHYLLOCONTIN	菲康汀持續性藥效錠225mg					
+BC26169100	N架	PRAVAFEN	普脂芬40/160					
+BC22376100	N架	PLAQUENIL	必賴克廔膜衣錠200mg					
+BC27086100	N架	Vemlidy	韋立得膜衣錠25mg					
+BC23548100	N架	SALAGEN	舒樂津錠劑5mg					
+AB43929100	N架	SALAZINE	撒樂腸溶錠500mg					
+BC25106100	N架	Wellbutrin XL	威克倦持續性藥效錠150mg					
+BC23161100	N架	MICARDIS	必康平錠80mg					
+BC23162100	N架	MICARDIS	必康平錠40mg					
+BC23654100	N架	MICARDIS PLUS	複必康平錠40/12.5mg					
+BC27117100	N架	Xigduo XR	釋多糖持續性藥效膜衣錠10/1000mg					
+AC46681100	N架	SYNTAM	欣坦膜衣錠1200mg					
+AC42660100	N架	ANBICYN	必百欣膜衣錠625mg					
+TSS01000081R	N架	ACCU-CHEK GUIDE-GLUCOSE TSET STRIP	羅氏智航血糖機組-血糖試紙					
