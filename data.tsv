@@ -1,666 +1,628 @@
 健保碼	位置	英文商品名	中文商品名	成分	供應商	價格	適應症	庫存
-A024465100	抽屜藥袋	Aspirin	阿斯匹林	Acetylsalicylic Acid 100mg	強生	$10/排	抗凝血	有
-AA49930100	抽屜藥袋	Glitis	泌特穩錠30mg	PIOGLITAZONE	中化	$90/盒	糖尿病	
-AB230371G0	抽屜藥袋	Cardolol	心康樂 10mg	Propranolol 10mg	榮民	$15/排	狹心症	有
-AB43852100	抽屜藥袋	Mikelan	美特郎5mg	Carteolol 5mg	大塚	$35/排	高血壓	有
-AB45041100	抽屜藥袋	Baburol	喘平樂錠10mg	Bambuterol 10mg	信東	$30/排	氣喘	有
-AB47172100	抽屜藥袋	Amepiride	欣益醣2mg	Glimepiride 2mg	健喬	$15/排	糖尿病	有
-AB49189100	抽屜藥袋	Loata	羅達50mg	Cilstazol 5mg	中國化學	$40/排	間歇性跛足	有
-AB50240100	抽屜藥袋	Lowten	絡舒坦 50mg	Losartan 50mg	瑞士	$35/排	高血壓	有
-AB55931100	抽屜藥袋	Zosatan	柔舒坦 50mg	Losartan 50mg	信東	$60/排	高血壓	有
-AB57206100	抽屜藥袋	Tamsulosin S.R. C	速流通 0.2mg	Tamsulosin 0.2mg	中化	$60/排	攝護腺肥大	有
-AB57234100	抽屜藥袋	OLSAA	優穩壓20mg	OLMESARTAN MEDOXOMIL	中國化學	$　　/排	高血壓	有
-AC042211G0	抽屜藥袋	Lika	利甲錠 5mg	Methimazole 5mg	瑞士	$15/排	甲亢	有
-AC042761G0	抽屜藥袋	Eazide	壓宜寧錠2mg	Trichlormethiazide 2mg	瑞士	$20/排	高血壓	有
-AC047371G0	抽屜藥袋	Pilian	佩你安錠 4mg	Cyproheptadine 4mg	永信	$20/排	過敏性鼻炎	有
-AC13381100	抽屜藥袋	Cortisone	乙酸可體松錠	Cortisone 25mg	柏理	$30/排	消炎	有
-AC185691G0	抽屜藥袋	Spirotone	蘇拉通25mg	Spironolactone 25mg	榮民	$20/排	利尿劑	有
-AC229081G0	抽屜藥袋	Spironolactone	使排通錠25mg	Spironolactone 25mg	十全	$20/排	利尿劑	有
-AC274391G0	抽屜藥袋	NEDIPIN	乃得平膠囊10mg	NIFEDIPINE100mg	衛達化學	$30/排	高血壓	有
-AC306291G0	抽屜藥袋	Nakasser 	能得爽錠 30mg	Diltiazem	南光	$15/排	高血壓	有
-AC31113121	抽屜藥袋	Abilify	安立復5mg	Aripiprazole	大塚	$430/排	精神分裂症	有
-AC31119100	抽屜藥袋	Amantadine	硫酸安曼他定100mg	Amantadine 100mg	回春堂	$60/排	帕金森氏症	有
-AC31493100	抽屜藥袋	Chiphone	去痛錠 100mg	Benzbromarone 100mg	羅德	$30/排	痛風	有
-AC341571G0	抽屜藥袋	Ceretal	血利持續性糖衣錠400mg	PENTOXIFYLLINE 400mg	信東	$30/排	循環	有
-AC343231G0	抽屜藥袋	Cowemin	可胃明錠 300mg	Cimetidine 300mg	井田	$30/排	胃潰瘍	有
-AC365061G0	抽屜藥袋	Sunpylon	舒必朗錠 50mg	Sulpride	盛雲	$20/排	胃潰瘍	有
-AC376791G0	抽屜藥袋	Beenrone	勉治錠50mg	Benzbromarone 50mg	永信	$20/排	痛風	有
-AC414971G0	抽屜藥袋	Atinol F.C	愛平諾100mg	Atenolol 100mg	健喬	$30/排	高血壓	有
-AC414991G0	抽屜藥袋	Cirzodone	杏緩妥錠 50mg	Trazodone 25mg	杏輝	$20/排	抗憂鬱劑	有
-AC42536100	抽屜藥袋	Sevina	詩維娜	Estradiol/Norethindrone	健喬信元	$130/排	賀爾蒙	有
-AC44203100	抽屜藥袋	Havina	伴樂娜膜衣錠 1/0.5mg	Estradiol /Norethindrone	健喬	$120/排	避孕	有
-AC45181100	抽屜藥袋	Synna	欣娜	Estradiol/Medroxyprogesterone	健喬信元	$110/排	賀爾蒙	有
-AC45334100	抽屜藥袋	Midorine	邁妥林2.5mg	Midodrine 2.5mg	培力	$40/排	低血壓	有
-AC455521G0	抽屜藥袋	Medrone	美得能 5mg	Medroxyprogesterone 5mg	優良化學	$30/排	賀爾蒙	有
-AC46028100	抽屜藥袋	Fluitran	服爾伊得安錠2mg	Trichlormethiazide 2mg	鹽野義	$25/排	利尿降壓劑	有
-AC470441G0	抽屜藥袋	Akinfree	安汀復	Biperiden 2mg	新瑞	$20/排	帕金森氏症	有
-AC47638100	抽屜藥袋	Zapline	憂必晴膜衣錠50mg	Sertraline 50mg	羅德	$30/排	調節心情	有
-AC476481G0	抽屜藥袋	Dosin	道喜錠 10mg	Domperidone 10mg	信東	$10/排	止吐	有
-AC480871G0	抽屜藥袋	Tone F.C.	靜安10mg	Imipramine	明德	$30/排	調節情緒	有
-AC48181100	抽屜藥袋	Venina	維妮娜錠	Estradiol/Medroxyprogesterone	健喬信元	$180/排	賀爾蒙	有
-AC48377100	抽屜藥袋	Plestar	普益達 100mg	Cilostazol 100mg	倍斯特	$160/排	間歇性跛行	有
-AC491141G0	抽屜藥袋	Daycose MR	簡醣 持續性 30mg	Gliclazide 30mg	衛達	$15/排	糖尿病	有
-AC548631G0	抽屜藥袋	Lopirin	諾比林81mg	Aspirine 81mg	舜興	$20/排	抗凝血	有
-AC55271100	抽屜藥袋	Cofarin	可化凝5mg	Warfarin 5mg	政德	$50/排	抗凝血	有
-AC55895100	抽屜藥袋	Atorcal	柔脂10mg	Atorvastatin 10mg	十全	$70/排	高血脂	有
-AC578451G0	抽屜藥袋	Glimepine	胰美平 2mg	Glimepiride 2mg	新瑞	$20/排	糖尿病	有
-AC57921100	抽屜藥袋	Glipizide 	泌得贊 5mg	Glimepiride 5mg	中化	$15/排	糖尿病	有
-AC58393100	抽屜藥袋	Urief	優列扶膜衣錠8mg	Silodosin 8mg	健喬	$190/排	前列腺肥大	有
-AC59398100	抽屜藥袋	Pivas FC	必脂舒 2mg	Pivastatin 2mg	健喬信元	$210/排	高血脂	有
-BC225931G0	抽屜藥袋	Atanaal	壓達能5毫克	Nifedipine 5mg	曼哈頓	$30/排	高血壓	有
-A032320100	桌上藥藍	Acetal	愛舒疼500mg	Acetaminophen 500mg	瑞安	$15/排	退燒止痛	有
-AA56761100	桌上藥藍	Mirtazapine	彌鬱停膜衣錠30mg	MIRTAZAPINE 30mg	中化裕民	$100/盒	焦慮	有
-AB016731G0	桌上藥藍	Cinnazine	賜腦清錠25mg	Cinnarizine 25mg	生達	$20/排	末梢神經障礙	有
-AB198751G0	桌上藥藍	Cardolol	心康樂 40mg	Propranolol 40mg	榮民	$15/排	狹心症	有
-AB28921100	桌上藥藍	PICETAM	必舒坦膠囊400mg	PIRACETAM400mg	生達	$25/排	循環	有
-AB29478100	桌上藥藍	UROSIN	優心 100mg	ATENOLOL 100mg	永信	$25/排	高血壓	有
-AB33091100	桌上藥藍	Licodin	利血達 250mg	Ticlopidine 250mg	東生華	$50/排	抗凝血	有
-AB412331G0	桌上藥藍	Glubin	利糖平 500mg	Metformin 500mg	瑞安	$20/排	糖尿病	有
-AB41332100	桌上藥藍	LIPDOWN	脂佳膠囊300mg	GEMFIBROZIL 300mg	生達	$35/排	高血脂	有
-AB41535100	桌上藥藍	PENTOP	循妥斯持續性錠 400mg	PENTOXIFYLLINE 400mg	優生	$35/排	循環	有
-AB42908100	桌上藥藍	Diamin 	代蜜錠 80mg	Gliclazide 80mg	信東	$20/排	糖尿病	有
-AB44124100	桌上藥藍	PLETAAL	大塚普達錠100mg	CILOSTAZOL100mg	臺灣大塚	$180/盒	循環	有
-AB44136100	桌上藥藍	PLETAAL	大塚普達錠50mg	CILOSTAZOL 50mg	臺灣大塚	$90/盒	循環	有
-AB44607100	桌上藥藍	Amlopine	鎮脈5mg	Amoldipine 5MG	生達	$20/排	高血壓	有
-AB453631G0	桌上藥藍	Furide	舒利諾40mg	Furosemide	生達	$20/排	利尿	有
-AB46315100	桌上藥藍	LOSART	暢壓膜衣錠50mg	LOSARTAN POTASSIUM 50mg	生達	$70/排	高血壓	有
-AB46742100	桌上藥藍	Amtrel	諾壓10mg/5mg	Benazepril 10mg/Amlodipine 5mg	東洋	$160/排	高血壓	有
-AB47228100	桌上藥藍	Fenolip-U	祛脂優160mg	Fenofibrate 160mg	正和	$60/排	高血脂	有
-AB47981100	桌上藥藍	Acarose	降醣佳錠50毫克	Acabose 50mg	生達	$30/排	糖尿病	有
-AB48506100	桌上藥藍	Epram	抑鬱10mg	Escitalopram 10mg	健亞	$150/排	抗憂鬱劑	有
-AB48991100	桌上藥藍	NIRANDIL	利可心錠 5mg	NICORANDIL 5mg	生達	$50/排	狹心症	有
-AB49342100	桌上藥藍	URNAL	優那0.2mg	Tamsulosin 0.2mg	貽丹	$70/排	攝護腺肥大	有
-AB57204100	桌上藥藍	IRBETAN	爾壓順膜衣錠300毫克	IRBESARTAN	健喬信元	$85/排	高血壓	有
-AC010471G0	桌上藥藍	Uretropic	通舒錠40mg	FUROSEMIDE 40mg	杏林新生	$20/排	利尿	有
-AC01154100	桌上藥藍	INDOY CAPSULES	炎達益膠囊 25mg	INDOMETHACIN 25mg	生達	$20/排	消炎	有
-AC05811100	桌上藥藍	Strocain	息痛佳音錠 5/244mg	OXETHAZAINE/POLYMIGEL	衛采	$20/排	胃痛	有
-AC075431G0	桌上藥藍	Folic Acid	榮民葉酸錠5mg	FolicAcid 5mg	榮民	$20/排	貧血	有
-AC09619100	桌上藥藍	Bisadyl	秘瀉樂腸溶錠5mg	Bisacodyl 5mg	明德	$15/排	軟便	有
-AC136341G0	桌上藥藍	Dipyridamole	待匹力達25mg	Dipyridamole 25mg	生達	$20/排	狹心症	有
-AC143431G0	桌上藥藍	COBAMAMIDE	可巴麥膠囊	COBAMAMIDE CAPSULES 250mg	豐田	$65/包/28顆	B12	有
-AC187191G0	桌上藥藍	IMIMINE	益伊神糖衣錠25mg	IMIPRAMINE 25mg	榮民	$　　/排	憂鬱症夜尿	有
-AC189491G0	桌上藥藍	Bisacodyl	秘克的腸溶糖衣錠5mg	Bisacodyl 5mg	榮民	$20/排	軟便	有
-AC221231G0	桌上藥藍	Imolex	依莫瀉 2mg	Loperamide 2mg	杏輝		止瀉	有
-AC22641100	桌上藥藍	ROSIS	樂泄錠 40mg	FUROSEMIDE 40mg	榮民	$15/排	利尿	有
-AC239181G0	桌上藥藍	Fluzine	服腦清錠5mg	Flumarizine 5mg	生達	$25/排	噁心 暈眩	有
-AC26105100	桌上藥藍	Elistin	益利循錠 1.5mg	Elistin 1.5mg	生達	$30/排	循環	有
-AC265261G0	桌上藥藍	Dogmatyl	脫蒙治膜衣錠50mg	Sulpride 50mg	賽諾菲	$30/排	精神病/潰瘍	有
-AC274381G0	桌上藥藍	Isobide	易適倍10mg	Isosorbide 10mg	衛達	$20/排	狹心症	有
-AC28078100	桌上藥藍	SULPIN	舒復寧膜衣錠 200mg	SULPIRIDE 200mg	信東	$20/排	胃潰瘍	
-AC29037100	桌上藥藍	RELAX	如來舒膠囊 350/175	ACETAMINOPHEN/CARISOPRODOL	回春堂	$　　/排	止痛消炎	有
-AC293561G0	桌上藥藍	MERISLON	敏使朗錠12mg	BETAHISTINE 12mg	衛采	$25/排	暈眩	有
-AC29617100	桌上藥藍	UROXATE	益樂尿錠200mg	FLAVOXATE200mg	衛達	$　　/排	尿道痙攣	有
-AC301201G0	桌上藥藍	CINTSU	心舒糖衣錠４０mg	VERAPAMIL HCL	永信	$20/排	狹心症	有
-AC30257100	桌上藥藍	AMANDA	安滿達膜衣錠100mg	AMANTADINE	衛達	$　　/排	帕金森氏	有
-AC305261G0	桌上藥藍	Spironolactone	歐得通25mg	Spironolactone 25mg	皇佳	$20/排	利尿劑	有
-AC31481100	桌上藥藍	SILIRIN	希利林膠囊 150mg	SILYMARIN 150mg	井田	$30/排	護肝	有
-AC31540100	桌上藥藍	Stable	血得平錠10mg	HYDRALAZINE 10mg	榮民	$　　/排	高血壓	有
-AC322751G0	桌上藥藍	Ceporin	血樂平錠25mg	Captopril	信東	$15/排	高血壓	有
-AC32619100	桌上藥藍	NIDOLIUM	吐寧錠 10mg	DOMPERIDONE 10mg	杏輝	$15/排	止吐	有
-AC328011G0	桌上藥藍	ALAT CAPSULES 10MG	心福膠囊１０公絲	NIFEDIPINE 10MG	永信	$30/排	高血壓	有
-AC346211G0	桌上藥藍	Glutrol	利糖妥5mg	Glipizide 5mg	瑞安	$20/排	糖尿病	有
-AC346701G0	桌上藥藍	Folacin FCT	葉酸膜衣錠5mg	FolicAcid 5mg	強生	$20/排	貧血	有
-AC36794100	桌上藥藍	PROCAL	普羅鈣錠 667mg	CALCIUM ACETATE 667mg	培力	$30/排	高磷酸鹽血症	有
-AC372251G0	桌上藥藍	WECOLI 	胃可麗錠 25mg	BETHANECHOL 25mg	應元	$30/排	尿儲留	有
-AC374411G0	桌上藥藍	Biperin	帕金寧2mg	Biperiden 2mg	聯邦	$30/排	帕金森氏症	有
-AC37685100	桌上藥藍	GEMD	脂福膜衣錠６００公絲	GEMFIBROZIL 600mg	永信	$40/排	高血脂	有
-AC382041G0	桌上藥藍	CABUDAN	卡布登錠25mg	CAPTOPRIL25mg	健喬信元	$　　/排	高血壓	有
-AC39431100	桌上藥藍	Dopadine	多巴定膜衣錠100mg	Amantadine 100mg	瑞士	$60/排	帕金森氏症	有
-AC395971G0	桌上藥藍	Switane	瑞丹2mg	TRIHEXYPHENIDYL 2mg	瑞士	$20/排	帕金森氏症	有
-AC400471G0	桌上藥藍	Bentomin 	得利糖錠 500mg	Metformin 500mg	十全	$20/排	糖尿病	有
-AC40986100	桌上藥藍	WEIMOK	胃莫潰 20mg	FAMOTIDINE 20mg	衛達	$　　/排	胃潰瘍	有
-AC41247100	桌上藥藍	Carpine	卡賓 200mg	Carbamazepine	信東	$30/排	神經痛	有
-AC414971G0	桌上藥藍	ATINOL	愛平諾膜衣錠100毫克	ATENOLOL 100MG	健喬信元	$30/排	高血壓	
-AC415451G0	桌上藥藍	Aldactin	愛達信錠25mg	Spironolactone 25mg	信東	$20/排	利尿	有
-AC419521G0	桌上藥藍	Bao-Gan	保肝勇膠囊150mg	Silymarin 150mg	成大	$20/排	護肝	有
-AC42619100	桌上藥藍	Fenolip	祛脂微粒膠囊200mg	Fenofibrate 200mg	正和	$70/排	高血脂	有
-AC42946100	桌上藥藍	SULMATYL	思邁蒂 50mg	SULPIRIDE 50mg	培力	$25/排	胃潰瘍	
-AC43317100	桌上藥藍	Conmy	服脈2mg	TERAZOSIN 2mg	信東	$20/排	前列腺肥大	有
-AC43335100	桌上藥藍	POLUPI	僕樂彼 50mg	PROPYLTHIOURACIL 50mg	汎生	$30/排	甲亢	有
-AC43632100	桌上藥藍	MELETIN	脈律循膠囊100mg	MEXILETINE HCL	信東	$35/排	高血壓	有
-AC436641G0	桌上藥藍	Espin	安心平腸溶微粒膠囊100mg	Aspirine 100mg	惠勝	$35/排	抗凝血	有
-AC43862100	桌上藥藍	Cofarin	可化凝錠1mg	Warfarin 1mg	政德	$50/排	抗凝血	有
-AC439271G0	桌上藥藍	Gouless	優諾50mg	Benzbromarone 50mg	生達	$20/排	痛風	有
-AC440141G0	桌上藥藍	Userm	悠縮莫100mg	TOLPERISONE 100mg	順華	$20/排	疼痛性肌痙攣	有
-AC44114100	桌上藥藍	SUFLEX	速得舒錠 200mg	MEPHENOXALONE 200mg	永信	$20/排	肌肉鬆弛	有
-AC44254100	桌上藥藍	Bethanechol	滯尿通錠25mg	Bethanecol 25mg	強生	$30/排	痛風	有
-AC44371100	桌上藥藍	Amopine	脈樂平5mg	Amoldipine 5MG	信東	$20/排	高血壓	有
-AC44481100	桌上藥藍	BIOZOLE TABLET 20MG	保幽樂錠20毫克	OMEPRAZOLE 20mg	中生		胃潰瘍	
-AC44547100	桌上藥藍	Telowsin	脈降錠2mg	TERAZOSIN 2mg	永信	$30/排	高血壓	有
-AC44689100	桌上藥藍	Thoin SRM	喘克緩釋微粒膠囊250mg	THEOPHYLLINE 250mg	永勝	$30/排	氣喘	
-AC44731100	桌上藥藍	LONGCARDIO	慢又低錠25mg	CARVEDILOL 25mg	永福	$50/排	高血壓	有
-AC44853100	桌上藥藍	Dophilin 	道福寧錠 2mg	Doxazosin 2mg	信東		高血壓	有
-AC449241G0	桌上藥藍	Thoin SRM	喘克緩釋微粒膠囊125mg	THEOPHYLLINE 125mg	永勝	$25/排	氣喘	有
-AC45020100	桌上藥藍	MUSGUD	瑪舒可錠10mg	CYCLOBENZAPRINE 10mg	美時	$35/排	痙攣	有
-AC45085100	桌上藥藍	Amlodine	脈得順5mg	Amoldipine 5MG	寶齡	$20/排	高血壓	有
-AC452471G0	桌上藥藍	Dobecon	肚比康 100mg	Mebeverine 100mg	永信	$30/排	消化異常	有
-AC452541G0	桌上藥藍	Synbot	欣保錠5mg	ENALAPRIL 5mg	健喬	$20/排	高血壓	有
-AC453831G0	桌上藥藍	Bafen	痛獲平5mg	Baclofen 5mg	瑞士	$20/排	止痛消炎	有
-AC45646100	桌上藥藍	Deglu	抵克醣錠50mg	Acabose 50mg	美時	$20/排	糖尿病	有
-AC45700100	桌上藥藍	UROTROL	優合膜衣錠15mg	PROPIVERINE 15mg	健亞	$　　/排	尿失禁	有
-AC46351100	桌上藥藍	Dimotil	立消樂錠 5mg/212.5mg	METOCLOPRAMIDE/PANCREATIN	明德	$40/排	消化異常	有
-AC463861G0	桌上藥藍	Loxol SR	樂咳痰舒75mg	Ambroxol SR 75mg	健亞	$40/排	祛痰	有
-AC46759100	桌上藥藍	MOCALM	永康緒膜衣錠 0.5mg	FLUPENTIXOL/MELITRACEN 0.5/10	瑞士	$25/排	焦慮	有
-AC467661G0	桌上藥藍	Glimaryl	革理蔓 2mg	Glimepiride 2mg	信東	$25/排	糖尿病	有
-AC473721G0	桌上藥藍	Indap	迅順1.5mg	Indapamide 1.5mg	生達	$20/排	高血壓	有
-AC474441G0	桌上藥藍	Uroso	利膽能100mg強生	URSODEOXYCHOLIC	強生	$30/排	膽結石	
-AC476871G0	桌上藥藍	Henformin	漢伏醣膜衣錠850mg	Metformin 850mg	旭能	$25/排	糖尿病	
-AC48602100	桌上藥藍	Diazone	糖立敏錠 15mg	Pioglitazone 15mg	正和	$100/排	糖尿病	有
-AC48855100	桌上藥藍	Dibose	克血糖100mg	Acabose 100mg	元宙	$65/排	糖尿病	有
-AC49061100	桌上藥藍	RELINIDE	醣立定錠	REPAGLINIDE	生達	$　　/排	糖尿病	有
-AC49514100	桌上藥藍	Ibimo	愛彼脈 60mg	Isosorbide 60mg	十全	$30/排	狹心症	有
-AC49574100	桌上藥藍	Utapine	優達平膜衣錠25mg	QUETIAPINE25mg	聯邦化學	$154/排	精神分裂症	有
-AC49741100	桌上藥藍	QUEROPIN	躁易平 200mg	QUETIAPINE 200mg	永信	$　　/排	躁鬱	有
-AC50008100	桌上藥藍	Uracare	友樂可10mg	TROSPIUM 10mg	天義	$60/排	平滑肌痙攣	有
-AC50083100	桌上藥藍	Calm-EZ	康緒舒 25mg	Quetiapine 25mg	瑞士	$40/排	思覺思條	有
-AC50182100	桌上藥藍	METHIMAZOLE	甲硫嗎唑錠５mg	Methimazole 5mg	強生	$25/排	甲狀腺	有
-AC50210100	桌上藥藍	RHYNORM	律諾膜衣錠 150mg	PROPAFENONE 150mg	東生華	$180/排	心律不整	有
-AC52537100	桌上藥藍	Rizatan	羅莎疼錠5mg	RIZATRIPTAN 5mg	保瑞聯邦	$65/粒	偏頭痛	有
-AC55245100	桌上藥藍	QUETIA	潰停亞 200mg	QUETIAPINE 200mg	五洲	$　　/排	躁鬱	
-AC55408100	桌上藥藍	Terodine	特洛定膜衣錠2mg	Tolterodine 2mg	萬海	$65/排	尿失禁	有
-AC55540100	桌上藥藍	Lesyn	樂壓定 6mg	Lacidipine 6mg	健喬信元	$95/排	高血壓	有
-AC558881G0	桌上藥藍	Folic acid	葉酸5mg	FolicAcid 5mg	應元	$25/排	貧血	有
-AC55961100	桌上藥藍	CARISOMA TABLETS 250 MG	卡力舒錠250毫克	CARISOPRODOL 250mg	健亞生物	$30/排	緊張	
-AC56720100	桌上藥藍	Synpid	脂淨膜衣錠160mg	FENOFIBRATE 160mg	健喬	$50/排	高血脂	有
-AC57128100	桌上藥藍	Carvedilol	壓落保錠25mg	Carvedilol 25mg	中化	$20/排	高血壓	有
-AC571721G0	桌上藥藍	Eutomin	優糖平錠 850mg	Metformin 850mg	優良	$25/排	糖尿病	有
-AC57216100	桌上藥藍	Linicor	理脂 500/20mg	Lovastatin/Niacin	東生華	$150/排	高血脂	有
-AC58113100	桌上藥藍	Ferrin	鐵達血膠囊 	B12/FolicAcid/Iron	元宙	$80/排	貧血	有
-AC58391100	桌上藥藍	Ecoxia	易克適膜衣錠60mg	Etoricoxib 60mg	瑞安	$120/排	關節炎	有
-AC58548100	桌上藥藍	TAMLOSIN D	暢利淨D口溶錠0.2毫克	Tamsulosin 0.2mg	生達	$90/排	攝護腺肥大	
-AC58633100	桌上藥藍	PITARTY	力脂替膜衣錠4mg	PITAVASTATIN4mg	中國化學	$　　/排	高血脂	有
-AC58755100	桌上藥藍	Flexer ER	服樂適持續膜衣錠15mg	CYCLOBENZAPRINE15mg	健喬	$90/排	痙攣	
-AC59185100	桌上藥藍	Febuton	達理痛膜衣錠80mg	Febuxostat 80mg	生達	$260/排	痛風	有
-AC59393100	桌上藥藍	Lodiglit	雙革醣膜衣錠15/850mg	Metformin/Pioglitazone	生達	$95/排	糖尿病	有
-AC59407100	桌上藥藍	Irbest 	怡舒壓 300mg	Irbesartan 300mg	優生	$20/排	高血壓	有
-AC59415100	桌上藥藍	Amlos	安洛適5mg	Amoldipine 5MG	永茂	$40/排	高血壓	有
-AC59841100	桌上藥藍	CO-VOSAA	可汎穩壓 80/12.5	HYDROCHLOROTHIAZIDE/VALSARTAN	中國化學	$60/排	高血壓	
-AC60201100	桌上藥藍	Co-Midis	倍壓妥錠 80/5mg	Telmisartan/Amoldipine	生達	$120/排	高血壓	有
-BA25798100	桌上藥藍	Robestar	魯士定膜衣錠10mg	ROSUVASTATIN	諾華	$　　/排	高血脂	有
-BA26206100	桌上藥藍	Letrozole	利妥柔"艾威群"FCT-2.5mg	LETROZOLE 2.5mg	美時	$500/排	乳癌	有
-BC09147100	桌上藥藍	Imuran	移護寧50mg	Azathioprine	安沛	$18/粒	紅斑性狼瘡	有
-BC19626100	桌上藥藍	SIRDALUD	鬆得樂 2mg	TIZANIDINE 2mg	諾華	$　　/排		
-BC20198100	桌上藥藍	PROSCAR	波斯卡 5mg	FINASTERIDE 5mg	默沙東	$　　/排	攝護腺肥大	
-BC20509100	桌上藥藍	LAMICTAL	樂命達錠 50mg	LAMOTRIGINE 50mg	葛蘭素	$　　/盒	癲癇	有
-BC20510100	桌上藥藍	LAMICTAL	樂命達錠 100mg	LAMOTRIGINE 100mg	葛蘭素	$　　/盒	癲癇	有
-BC22097100	桌上藥藍	FOLIROMIN	服樂明膜衣錠５０公絲	SODIUM FERROUS CITRATE 470.9mg	光亨	$35/排	貧血	
-BC22535100	桌上藥藍	LASIX	來適泄錠40mg	FUROSEMIDE40mg	賽諾菲	$35/排	利尿	有
-BC22726100	桌上藥藍	METHOTREXATE	滅殺除炎錠2.5mg	METHOTREXATE2.5mg	輝瑞	$　　/排	抗風濕	有
-BC23215100	桌上藥藍	FENOGAL	芬諾克膠囊200mg	FENOFIBRATE200mg	天義	$　　/排	高血脂	有
-BC23492100	桌上藥藍	SOLIAN	首利安錠 200mg	AMISULPRIDE 200mg	賽諾菲	$　　/排	思覺失調	有
-BC23792100	桌上藥藍	XYZAL	驅異樂膜衣錠5mg	LEVOCETIRIZINE 5mg	葛蘭素	$35/排	過敏性鼻炎	有
-BC24403100	桌上藥藍	Harnalidge D tablets 	活路利淨D 口溶錠0.2毫克	Tamsulosin 0.2mg	安斯泰來	$85/排	前列腺肥大	有
-BC24967100	桌上藥藍	Carvedilol Hexal 25mg	卡菲蒂羅錠25mg	Carvedilol 25mg	諾華	$350/盒	高血壓	有
-BC25674100	桌上藥藍	Carvedilol Hexal 6.25mg	卡菲蒂羅錠6.25mg	Carvedilol 6.25mg	諾華	$300/盒	高血壓	有
-BC26552100	桌上藥藍	Ezetimibe	脂易穩錠 10mg	EZETIMIBE 10mg	諾華	$　　/盒	高血脂	有
-BC26668100	桌上藥藍	Latuda	樂途達錠40mg	LURASIDONE	台灣住友	$1600/盒	思覺失調	有
-NB00711100	桌上藥藍	PREDONINE	普力多寧錠 5mg	PREDNISOLONE 5mg	鹽野義	$30/排	消炎	有
-NC01752100	桌上藥藍	Fronil SCT	福樂你25mg	Imipramine 25mg	強生	$20/排	夜尿	有
-NC01822100	桌上藥藍	Ferrous Gluco-B	維他葡萄糖鐵	Ferrous Glucomate 300mg	強生	$30/排	貧血	有
-NC036331G0	桌上藥藍	Aminophylline	氨基非林100mg	Aminophylline 100mg	應元	$25/排	高血壓	有
-A027040100	瓶裝藥	Dex-CTM	特息敏錠2mg		健喬	$2/粒		
-A037697100	瓶裝藥	THROUGH	便通樂膜衣錠					
-A043488100	瓶裝藥	SENNAPUR	清立飄					
-AB57848100	瓶裝藥	Fluoxetine Capsules	禧濱膠囊20mg					
-AC02846100	瓶裝藥	WANSE	旺血糖衣錠					
-AC07543100	瓶裝藥	Folic Acid	榮民葉酸錠5mg	FolicAcid 5mg	榮民	$20/排	貧血	有
-AC21923100	瓶裝藥	SODIUM BICARBONATE	碳酸氫鈉錠					
-AC22960100	瓶裝藥	Zinga	鋅寶錠10mg			$2/粒		
-AC24053100	瓶裝藥	BLOODFULL	益血康糖衣錠					
-AC26328100	瓶裝藥	Newmazole	紐甲舒錠10mg			$		
-AC27940100	瓶裝藥	Beesix	維六素錠50mg		榮民	$3/粒		
-AC28079100	瓶裝藥	BUSIX	必得寧錠1mg					
-AC30742100	瓶裝藥	Apresoline	阿普利素寧糖衣錠25mg		美納	$2/顆		
-AC30879100	瓶裝藥	Apresoline	阿普利素寧糖衣錠10mg		美納	$2/顆		
-AC33933100	瓶裝藥	Carbizo	抗泌腫錠10mg		優生	$2/粒		
-AC37140100	瓶裝藥	Befon	倍鬆錠10mg					
-AC37141100	瓶裝藥	Befon	倍鬆錠5mg		美時	$3/粒		
-AC37520100	瓶裝藥	CAPHOS TABLETS 667MG	鈣臨錠667毫克					
-AC41577100	瓶裝藥	Destone	去石寧錠540mg		南光	$5/粒		
-AC41673100	瓶裝藥	SULFIN	速復利錠100mg					
-AC42272100	瓶裝藥	Rowapraxin	柔瓦拉欣膜衣錠10mg			$5/粒		
-AC44272100	瓶裝藥	FORMOROL	服莫喘錠					
-AC44365100	瓶裝藥	DAMPURINE 	舒解錠 25mg					
-AC46118100	瓶裝藥	B.H.L.	顫立靜錠2mg		中化	$2/顆		
-AC46236100	瓶裝藥	B.H.L.	顫立靜錠5mg					
-AC48191100	瓶裝藥	THYROID-S	活甲錠100mg					
-AC58589100	瓶裝藥	MOCOLAX	肌緩痛錠					
-AC59802100	瓶裝藥	K-SUPPLY	益鉀錠595mg					
-B018797100	瓶裝藥	SENOKOT	散肚祕錠					
-BC09554100	瓶裝藥	Lanoxin	隆我心0.25mg			$3/粒		
-BC23572100	瓶裝藥	ORFARIN	歐服寧5mg					
-N012916100	瓶裝藥	Meclizine	美克利靜片25mg			$1/粒		
-NC04385100	瓶裝藥	WINSUMIN	穩舒眠12.5mg					
-NC05616100	瓶裝藥	WINSUMIN	穩舒眠25mg					
-AB44374100	袋袋散藥	YOU-JET F.C.	憂解膜衣錠50mg					
-AB45392100	袋袋散藥	FELPIN 	菲可平持續釋放膜衣錠5mg					無
-AB47532100	袋袋散藥	ANSURES	安胰敏緩釋錠					
-AB47671100	袋袋散藥	Glubose	利糖順錠50mg					
-AB47984100	袋袋散藥	CARLIPIN	糖利平錠50mg					
-AB55028100	袋袋散藥	IRBETAN F.C	爾壓順 膜衣錠150mg					
-AB55990100	袋袋散藥	MOSA F.C.	摩暢膜衣錠5mg					
-AC00178100	袋袋散藥	APREZIN	壓平利淨錠					
-AC269841G0	袋袋散藥	PEACE	鼻福錠					
-AC29320100	袋袋散藥	AMIZIDE	安立壓錠					
-AC31260100	袋袋散藥	HODRIN 	好如臨錠1.5公絲					
-AC39822100	袋袋散藥	ESTRADE	益斯得錠					
-AC40174100	袋袋散藥	BENZRO 	袪酸利膠囊100公絲					
-AC42621100	袋袋散藥	CLOPINE	克慮平錠25mg					
-AC43663100	袋袋散藥	ASCOTYL ENTERIC	暢血脈腸溶微粒膠囊100mg					
-AC43931100	袋袋散藥	FELOPINE E.R. F.C.	紛落持續釋放膜衣錠10公絲					
-AC44295100	袋袋散藥	EDIOL F.C 	伊黛歐膜衣錠1mg					
-AC45971100	袋袋散藥	ARHEUMA	雅努麻錠20mg					
-AC46077100	袋袋散藥	ADARONE	艾達絡錠200公絲					
-AC46758100	袋袋散藥	LA FERRUM	拿鐵嚼錠100公絲					
-AC48168100	袋袋散藥	CARDIOL	心通寧錠6.25mg					
-AC49653100	袋袋散藥	CALM-EZ F.C. 	康緒舒膜衣錠100mg					
-AC50123100	袋袋散藥	LOCEMINE F.C.	樂洩敏膜衣錠5mg					
-AC50772100	袋袋散藥	MYCROS	脈可洛適錠0.5mg					
-AC52530100	袋袋散藥	ATORIN F.C. 	降脂妥膜衣錠20mg					
-AC55268100	袋袋散藥	ATORVA FILM-COATED	立舒脂膜衣錠 					
-AC56789100	袋袋散藥	JFS FCT "ROOT"	源諾膜衣錠180mg					
-AC57857100	袋袋散藥	Montelukast F.C.	息喘膜衣錠40mg					
-AC57944100	袋袋散藥	DOWN LIP-U 	脂利降錠160mg					
-BC21175100	袋袋散藥	ALFACALCIDOL	愛康鈣軟膠囊0.5微公克					
-A029828100	G架	KASCOAL	加斯克兒錠40mg					
-AB03318100	G架	METOCLOPRAMIDE	胃明朗膜衣錠3.84mg					
-AB09102100	G架	PROPRANOLOL	心律錠10mg					
-AB29478100	G架	UROSIN	優心100mg					
-AB30749100	G架	RASITOL 	來喜妥錠40mg					
-AB31896100	G架	MUSCO	美舒咳錠30mg					
-AB38019100	G架	VOREN	非炎徐放膜衣錠100mg					
-AB41226100	G架	TRAND	血迅膠囊250mg					
-AB44403100	G架	VOREN-K	非炎鉀糖衣錠50mg					
-AB46184100	G架	TOPEE F.C.	肌鬆定膜衣錠150mg					
-AC14228100	G架	ALLOPURINOL	安樂普利諾錠					
-AC15078100	G架	DIPHENIDOL	敵芬尼朵糖衣錠					
-AC27011100	G架	THRONE	克栓腸溶糖衣錠100mg					
-AC37344100	G架	BOKEY	伯基腸溶微粒膠囊100mg					
-AC39863100	G架	GINKGO	銀之杏膜衣錠9.6mg					
-AC43898100	G架	FLU-D	膚肯膠囊150mg					
-AC44114100	G架	SUFLEX	速得舒錠200mg					
-AC44595100	G架	MINLIFE	敏福錠10mg					
-AC44710100	G架	CETY 	協帝 膜衣錠10mg					
-AB44091100	H架	MEPHENOXALONE	美飛舒肌錠200mg					
-AB45725100	H架	LACOXA SR	樂夠效緩釋錠					
-AB46613100	H架	U-CHU TONEC	痛停錠100mg					
-AC02320100	H架	ALEVIATIN	阿雷彼阿慶錠					
-AC05813100	H架	SOLAXIN	舒肉筋新錠					
-AC15387100	H架	NAPOSIN	能百鎮錠250mg					
-AC31676100	H架	Compesolon	康速龍錠5mg					
-AC42754100	H架	EURICON 	優力康錠50mg					
-AC43074100	H架	TONSARIC	痛酸立克100mg					
-AC45267100	H架	"U-CHU" ACEO	痛立安長效膠囊90mg					
-NC02531100	H架	DONISON	樂爾爽					
-A019353100	I架	STAZYME	速泰消腸溶錠					
-A020707100	I架	DEPYRETIN 	得百利寧錠	ACETAMINOPHEN 500MG	榮民			
-A034886100	I架		舒胃錠					
-AB33947100	I架	EMETROL	癒吐寧錠10mg					
-AB38605100	I架	FADIN F.C.	胃樂順膜衣錠20mg					
-AB46646100	I架	POZOLA ENTERIC	盼胃優腸溶膜衣錠					
-AB47656100	I架	MOPRIDE F.C.	摩舒胃清膜衣錠5mg					
-AB55564100	I架	MOSAD	胃莫傷錠5mg					
-AB57237100	I架	Losa&Hydro	那寶穩膜衣錠50/12.5mg					
-AC09291100	I架	EUCLIDAN 	優庫利暖錠50mg					
-AC10358100	I架	HERBESSER	合必爽錠30mg					
-AC15422100	I架	RELAZIDE	利吉得糖衣錠					
-AC19503100	I架	SINPHADOL	杏化樂糖衣錠					
-AC22987100	I架	PRIMPERAN	腹寧朗膜衣錠					
-AC28333100	I架	LUCKYHEPA	肝福Ｒ膠囊					
-AC29572100	I架	SUZIN	舒腦膠囊5mg					
-AC29575100	I架	SUZIN	舒腦膠囊10mg					
-AC296301G0	I架	METHYCOBAL	彌可保膠囊500MG					
-AC32642100	I架	GIKO FILM-COATED	循克膜衣錠9.6mg					
-AC33157100	I架	WEISUFU	胃舒服錠					
-AC33468100	I架	SILIMIN	賜得健膠囊150mg					
-AC37601100	I架	WELIZEN	胃利贊膜衣錠20mg					
-AC39304100	I架	ESTROMON	伊使蒙膜衣錠0.625mg					
-AC40699100	I架	GINKGOCENTRATE 	杏銀膜衣錠9.6mg					
-AC40894100	I架	LIVORIN	利肝臨膠囊150mg					
-AC40986100	I架	WEIMOK	胃莫潰膜衣錠20mg					
-AC41352100	I架	ULSTOP 	悅潰止膜衣錠					
-AC42863100	I架	FAMO	發馬膜衣錠20mg					
-AC43501100	I架	WINIFUL 	胃您好膜衣錠20mg					
-AC44261100	I架	RICH	胃全膠囊30mg					
-AC46067100	I架	PROTASE	優妙化腸溶微粒膠囊					
-AC46246100	I架	LANPO	永勝佳胃膠囊30mg					
-AC47679100	I架	Knowful Film	腦福 膜衣錠1200mg					
-AC47901100	I架	SILYMARIN	賜康保肝膠囊150mg					
-AC48082197	I架	SYNTAM	郝智內服溶液用顆粒劑1200mg					
-AC48171100	I架	SILIMA 	信美寧膠囊					
-AC48727113	I架	SYNTAM	郝智內服溶液用顆粒劑2400mg					
-AC49193100	I架	CATILON	腸必寧錠40mg					
-AC55566100	I架	MOSAPULIN 	腸安寧 膜衣錠					
-AC57114100	I架	Amlodipine 	安壓得穩錠5mg					
-AC57274100	I架	Lansoprazole	逸潰定膠囊30mg					
-AC57791100	I架	FAMOTIDINE	法瑪鎮膜衣錠20mg					
-AC57891100	I架	Dipyridamole	所雷帝糖衣錠25mg					
-BC16504100	I架	FERRUM HAUSMANN	富鐵好嚼錠					
-BC225931G0	I架	ATANAAL	壓達能軟膠囊5mg					
-BC22782100	I架	PARIET 	百抑潰腸溶膜衣錠20mg					
-BC23016100	I架	ALLEGRA	艾來60MG					
-BC23221100	I架	NEXIUM	耐適恩錠40MG					
-BC23981100	I架	ARCOXIA 	萬克適錠60mg					
-BC25427100	I架	FEBURIC	福避痛膜衣錠80MG					
-NB099311G0	I架	SANYL	暢力糖衣錠					
-A032323114	J架	ACTEIN GRANULES	愛克痰顆粒40mg/gm					
-A036349100	J架	UFORMIN	克醣錠500mg					
-A037598116	J架	ACTEIN GRANULES	愛克痰顆粒66.7mg					
-AA57322100	J架	ENVIR F.C. 	欣甘膜衣錠0.5mg					
-AB18251100	J架	CARDIOLOL	心律整錠10mg					
-AB33029100	J架	ATEOL F.C.	壓平樂膠衣錠100mg					
-AB42687100	J架	REGROW	愛舒可羅持續性膜衣錠60mg					
-AB43706100	J架	LODITON F.C.	 伏糖膜衣錠500mg					
-AB45348100	J架	BISO F.C	百適歐膜衣錠5mg					
-AB45492100	J架	MECATER	麥咳喘錠25mg					
-AB48089100	J架	DIAMIN MR	代蜜持續性藥效錠30mg					
-AB49656100	J架	MIRTAPINE	美妥平口溶錠30mg					
-AB57225100	J架	Repaglinide	柔醣錠1mg					
-AB58071100	J架	GLIMET F.C.	利控糖 膜衣錠2/500mg					
-AC02863100	J架	GLIBEN	固利康錠					
-AC04919100	J架	BAKTAR	撲菌特錠400mg					
-AC21758100	J架	MEDICON-A	滅咳康複合膠囊					
-AC27598100	J架	FUCOU	去咳寧膠囊					
-AC308941G0	J架	TOFRANIL S.C	妥富腦糖衣錠25mg					
-AC36151100	J架	MUBROXOL	平痰息錠30mg					
-AC36966100	J架	CARTIL	卡迪爾錠30mg					
-AC39703100	J架	LABTAL F.C. 	壓血泰膜衣錠200mg					
-AC41488100	J架	FYLIN RETARD F.C.	暢循持續性膜衣錠400mg					
-AC43364100	J架	COXINE	冠欣錠20mg					
-AC43704100	J架	ATINOL F.C.	愛平諾膜衣錠50mg					
-AC43961100	J架	TERAZOSIN	替你舒壓錠2mg					
-AC44115100	J架	MEQUITAZINE	過敏美奎錠5mg					
-AC44572100	J架	FOXATE F.C	伏順膜衣錠200mg					
-AC46404100	J架	SYNTREND	心全錠25mg					
-AC46640100	J架	GRUMED 	達醣定錠2mg					
-AC46699100	J架	SYNTREND	心全錠6.25mg					
-AC47086100	J架	ANKOMIN F.C.	美克糖膜衣錠500mg					
-AC47092100	J架	NILASEN	寧耳眩錠16mg					
-AC47232100	J架	NILASEN	寧耳眩錠24mg					
-AC49204100	J架	LITACARBOSE	衛醣錠100mg					
-AC49833100	J架	LEVOZINE F.C. 	舒敏寧膜衣錠5mg					
-AC55118100	J架	URIEF	優列扶膠囊4mg					
-AC57117100	J架	Glimepiride	穩佳醣錠2mg					
-AC57127100	J架	Fexofenadine	飛敏耐膜衣錠60mg					
-AC57219100	J架	Nifedipine S.R.F.C.	恆脈循持續性膜衣錠30mg					
-AC582401G0	J架	Tofranil S.C.	妥富腦糖衣錠10mg					
-AC58340100	J架	MONKAST F.C.	樂息喘膜衣錠10mg					
-AC58534100	J架	Metformin F.C.	寬樂醣膜衣錠500mg					
-AC58838100	J架	URIEF F.C.	優列扶 膜衣錠4mg					
-BA24468100	J架	Baraclude	貝樂克膜衣錠1mg					
-BA24469100	J架	Baraclude	貝樂克膜衣錠0.5mg					
-BC071521G0	J架	GLUCOPHAGE	庫魯化錠500					
-BC16028100	J架	TEGRETOL CR 	癲通長效膜衣錠200mg					
-BC182311G0	J架	GLUCOPHAGE	庫魯化錠850mg					
-BC22064100	J架	PROZAC	百憂解錠20mg					
-BC221591G0	J架	TENORMIN	天諾敏錠100mg					
-BC22208100	J架	TEGRETOL	癲通錠200mg					
-BC22778100	J架	SINGULAIR	欣流膜衣錠10mg					
-BC23952100	J架	AVODART SOFT	適尿通軟膠囊0.5mg					
-BC24025100	J架	ASPIRIN	阿斯匹林腸溶膜衣錠100mg					
-BC26216100	J架	Betmiga	貝坦利持續性藥效錠50mg					
-BC26217100	J架	Betmiga	貝坦利持續性藥效錠25mg					
-AA48730100	N架	Thrombifree	健克栓膜衣錠75mg					
-AA57372100	N架	Pitator	必抑脂膜衣錠2					
-AA57802100	N架	ROTY	諾脂替膜衣錠10mg					
-AA57843100	N架	ROTY	諾脂替膜衣錠5mg					
-AB43929100	N架	SALAZINE	撒樂腸溶錠500mg					
-AB49454100	N架	PRATIN	脂樂潔					
-AC42660100	N架	ANBICYN	必百欣膜衣錠625mg					
-AC46681100	N架	SYNTAM	欣坦膜衣錠1200mg					
-AC57130100	N架	Rotlip	洛脂平膜衣錠10mg			$180/盒		
-AC58639100	N架	ZULITOR	平脂膜衣錠4mg					
-AC58817100	N架	TAMOKAS	益利舒持續性藥效膜衣錠0.4mg					
-AC59192100	N架	PITANXO	庇脂清膜衣錠4mg					
-B020548100	N架	Tambocor	律博克錠100mg			$700/盒		
-BC18279100	N架	PHYLLOCONTIN	菲康汀持續性藥效錠225mg					
-BC196241G0	N架	XANTHIUM	善寧持續性藥效膠囊200mg					
-BC19918100	N架	Rytmonorm 	心利正膠囊150mg			$150/排		
-BC20991100	N架	SIGMART	喜革脈錠5mg					
-BC21536100	N架	SEROXAT	克憂果20mg					
-BC21780100	N架	ZOLOFT	樂復得膜衣錠50mg					
-BC22324100	N架	ZYPREXA	金普薩膜衣錠5mg					
-BC22376100	N架	PLAQUENIL	必賴克廔膜衣錠200mg					
-BC22508100	N架	Topamax	妥泰膜衣錠100mg			$1800/盒		
-BC22509100	N架	Topamax 	妥泰膜衣錠 25mg			$420/盒		
-BC22542100	N架	SEROQUEL	思樂康膜衣錠100mg					
-BC22543100	N架	SEROQUEL	思樂康膜衣錠25mg					
-BC22544100	N架	SEROQUEL	思樂康膜衣錠200mg					
-BC22917100	N架	XATRAL XL	扎特持續性藥效錠10mg					
-BC22997100	N架	Progor	保樂康緩釋膠囊180mg			$300/盒		
-BC23001100	N架	PROGOR	保樂康緩釋膠囊120mg					
-BC23161100	N架	MICARDIS	必康平錠80mg					
-BC23162100	N架	MICARDIS	必康平錠40mg					
-BC23293100	N架	ZANIDIP	利壓膜衣錠10mg					
-BC23524100	N架	TRILEPTAL	除癲達膜衣錠300mg					
-BC23548100	N架	SALAGEN	舒樂津錠劑5mg					
-BC23654100	N架	MICARDIS PLUS	複必康平錠40/12.5mg					
-BC24250100	N架	VYTORIN	維妥力錠10/20mg					
-BC24887100	N架	Seroquel XR	思樂康持續錠200mg			$60/排		
-BC25001100	N架	SEROQUEL XR	思樂康持續錠50mg					
-BC25106100	N架	Wellbutrin XL	威克倦持續性藥效錠150mg					
-BC25129100	N架	Xarelto	拜瑞妥膜衣錠10mg					
-BC25446100	N架	TWYNSTA	倍必康平錠80/5mg					
-BC25451100	N架	VALDOXAN	煩多閃膜衣錠25mg					
-BC25648100	N架	Xarelto	拜瑞妥膜衣錠15mg					
-BC26169100	N架	PRAVAFEN	普脂芬40/160					
-BC26869100	N架	Rytmonorm SR	心利正膠囊225mg			$150/排		
-BC26870100	N架	Rytmonorm SR	心利正膠囊325mg			$150/排		
-BC27029100	N架	Visanne	異位寧2mg					
-BC27086100	N架	Vemlidy	韋立得膜衣錠25mg					
-BC27117100	N架	Xigduo XR	釋多糖持續性藥效膜衣錠10/1000mg					
-BC27467100	N架	QTERN	控糖穩膜衣錠5mg/10mg					
-BC27752100	N架	Rasteride	理得順軟膠囊0.5mg					
-NC033541G0	N架	VISTARIL	維泰寧膠囊25mg					
-TSS01000081R	N架	ACCU-CHEK GUIDE-GLUCOSE TSET STRIP	羅氏智航血糖機組-血糖試紙					
 無健保給付		扎特持續性藥效錠10mg	骨永壯膠囊250mg		永信	$20/排		
 A000096100		Menna	明那膠囊50mg			$20/排		
 A001713100		Enzyme	複方酵素錠10mg		回春堂	$50/排		
 A012556109		ShecoGranules	捨咳顆粒8mg			$10/包		
 A018559100		Lonzumin	普治敏錠25mg			$2/粒		
+A019353100	I架	STAZYME	速泰消腸溶錠					
+A020707100	I架	DEPYRETIN 	得百利寧錠	ACETAMINOPHEN 500MG	榮民			
+A024465100	抽屜藥袋	Aspirin	阿斯匹林	Acetylsalicylic Acid 100mg	強生	$10/排	抗凝血	有
+A027040100	瓶裝藥	Dex-CTM	特息敏錠2mg		健喬	$2/粒		
+A029828100	G架	KASCOAL	加斯克兒錠40mg					
+A032320100	桌上藥藍	Acetal	愛舒疼500mg	Acetaminophen 500mg	瑞安	$15/排	退燒止痛	有
+A032323114	J架	ACTEIN GRANULES	愛克痰顆粒40mg/gm					
+A034886100	I架		舒胃錠					
+A036349100	J架	UFORMIN	克醣錠500mg					
+A037598116	J架	ACTEIN GRANULES	愛克痰顆粒66.7mg					
+A037697100	瓶裝藥	THROUGH	便通樂膜衣錠					
+A043488100	瓶裝藥	SENNAPUR	清立飄					
 AA48333100		Glutazone	欣促胰錠30mg			$100/盒		
 AA48334100		Smilon	舒美寧膜衣錠30mg			$40/排		
+AA48730100	N架	Thrombifree	健克栓膜衣錠75mg					
 AA48879100		Anxolipo	凡脂妥膜衣錠10mg		瑩碩	$160/盒		
 AA49429100		Piozon	降糖皮爾錠30mg			$100/盒		
 AA49543100		Atorin	降脂妥10mg		健亞	$45/排		
 AA49629100		Leeyo	離憂膜衣錠10mg			$100/排180/盒		
+AA49930100	抽屜藥袋	Glitis	泌特穩錠30mg	PIOGLITAZONE	中化	$90/盒	糖尿病	
 AA52337100		Glufast	快如妥錠10mg			$360/盒		
+AA56761100	桌上藥藍	Mirtazapine	彌鬱停膜衣錠30mg	MIRTAZAPINE 30mg	中化裕民	$100/盒	焦慮	有
 AA56776100		Duxetine	萬憂停膠囊30mg		中化	$250/盒		
+AA57322100	J架	ENVIR F.C. 	欣甘膜衣錠0.5mg					
+AA57372100	N架	Pitator	必抑脂膜衣錠2					
+AA57802100	N架	ROTY	諾脂替膜衣錠10mg					
+AA57843100	N架	ROTY	諾脂替膜衣錠5mg					
 AA58268100		Candis	康必舒錠8mg		健喬	$220/盒		
 AB01641100		Cytadine	喜達鎮錠4mg		生達	$2/粒		
+AB016731G0	桌上藥藍	Cinnazine	賜腦清錠25mg	Cinnarizine 25mg	生達	$20/排	末梢神經障礙	有
+AB03318100	G架	METOCLOPRAMIDE	胃明朗膜衣錠3.84mg					
+AB09102100	G架	PROPRANOLOL	心律錠10mg					
+AB18251100	J架	CARDIOLOL	心律整錠10mg					
 AB182511G0		Cardiolol	心律整錠10mg		健喬	$30/排		
+AB198751G0	桌上藥藍	Cardolol	心康樂 40mg	Propranolol 40mg	榮民	$15/排	狹心症	有
+AB230371G0	抽屜藥袋	Cardolol	心康樂 10mg	Propranolol 10mg	榮民	$15/排	狹心症	有
+AB25402100	袋袋散藥	SOLACON	舒可樂錠200mg					
 AB28041100		Amiorone	艾歐隆200mg		信東	$60/排		
+AB28921100	桌上藥藍	PICETAM	必舒坦膠囊400mg	PIRACETAM400mg	生達	$25/排	循環	有
+AB29478100	桌上藥藍	UROSIN	優心 100mg	ATENOLOL 100mg	永信	$25/排	高血壓	有
+AB29478100	G架	UROSIN	優心100mg					
+AB30749100	G架	RASITOL 	來喜妥錠40mg					
+AB31896100	G架	MUSCO	美舒咳錠30mg					
+AB33029100	J架	ATEOL F.C.	壓平樂膠衣錠100mg					
+AB33091100	桌上藥藍	Licodin	利血達 250mg	Ticlopidine 250mg	東生華	$50/排	抗凝血	有
+AB33947100	I架	EMETROL	癒吐寧錠10mg					
 AB339471G0		Emetrol	癒吐寧錠10mg		瑞安	$20/排		
 AB35179100		Lefenine	利菲炎膜衣錠100mg			$40/排		
+AB38019100	G架	VOREN	非炎徐放膜衣錠100mg					
+AB38605100	I架	FADIN F.C.	胃樂順膜衣錠20mg					
 AB405831G0		Gluzide	格汝唐80mg			$20/排		
 AB40983100		U-Ca	活維D軟膠囊0.5mcg			$60/排		
+AB41226100	G架	TRAND	血迅膠囊250mg					
+AB412331G0	桌上藥藍	Glubin	利糖平 500mg	Metformin 500mg	瑞安	$20/排	糖尿病	有
+AB41332100	桌上藥藍	LIPDOWN	脂佳膠囊300mg	GEMFIBROZIL 300mg	生達	$35/排	高血脂	有
+AB41535100	桌上藥藍	PENTOP	循妥斯持續性錠 400mg	PENTOXIFYLLINE 400mg	優生	$35/排	循環	有
 AB41641100		Nakamide	壓利得2.5mg		大塚	$20/排		
+AB42687100	J架	REGROW	愛舒可羅持續性膜衣錠60mg					
+AB42908100	桌上藥藍	Diamin 	代蜜錠 80mg	Gliclazide 80mg	信東	$20/排	糖尿病	有
+AB43706100	J架	LODITON F.C.	 伏糖膜衣錠500mg					
 AB437061G0		Loditon	伏糖錠500mg		生達	$		
+AB43852100	抽屜藥袋	Mikelan	美特郎5mg	Carteolol 5mg	大塚	$35/排	高血壓	有
+AB43929100	N架	SALAZINE	撒樂腸溶錠500mg					
+AB44091100	H架	MEPHENOXALONE	美飛舒肌錠200mg					
 AB440911G0		Mephenoxalone	美飛舒肌錠200mg		五洲	$20/排		
+AB44124100	桌上藥藍	PLETAAL	大塚普達錠100mg	CILOSTAZOL100mg	臺灣大塚	$180/盒	循環	有
+AB44136100	桌上藥藍	PLETAAL	大塚普達錠50mg	CILOSTAZOL 50mg	臺灣大塚	$90/盒	循環	有
+AB44374100	袋袋散藥	YOU-JET F.C.	憂解膜衣錠50mg					
+AB44403100	G架	VOREN-K	非炎鉀糖衣錠50mg					
 AB44434100		Delibs	免腸躁膜衣錠50mg		衛達	$70/排		
 AB44468100		Felopine F.R.F.C	紛落5mg		十安	$20/排		
+AB44607100	桌上藥藍	Amlopine	鎮脈5mg	Amoldipine 5MG	生達	$20/排	高血壓	有
 AB44619100		Betazolol	倍舒樂20mg		信東	$120/盒		
+AB45041100	抽屜藥袋	Baburol	喘平樂錠10mg	Bambuterol 10mg	信東	$30/排	氣喘	有
+AB45348100	J架	BISO F.C	百適歐膜衣錠5mg					
+AB453631G0	桌上藥藍	Furide	舒利諾40mg	Furosemide	生達	$20/排	利尿	有
+AB45392100	袋袋散藥	FELPIN 	菲可平持續釋放膜衣錠5mg					無
+AB45492100	J架	MECATER	麥咳喘錠25mg					
+AB45725100	H架	LACOXA SR	樂夠效緩釋錠					
 AB46016100		Tamlosin	暢利淨持續釋放膠囊0.2mg		生達	$5/顆		
+AB46184100	G架	TOPEE F.C.	肌鬆定膜衣錠150mg					
+AB46315100	桌上藥藍	LOSART	暢壓膜衣錠50mg	LOSARTAN POTASSIUM 50mg	生達	$70/排	高血壓	有
+AB46613100	H架	U-CHU TONEC	痛停錠100mg					
+AB46646100	I架	POZOLA ENTERIC	盼胃優腸溶膜衣錠					
+AB46742100	桌上藥藍	Amtrel	諾壓10mg/5mg	Benazepril 10mg/Amlodipine 5mg	東洋	$160/排	高血壓	有
 AB46749100		Epilramate	克癇膜衣錠100mg		安成	$1060/盒		
 AB471471G0		Picetam	必舒坦膜衣錠1200mg			$25/排		
+AB47172100	抽屜藥袋	Amepiride	欣益醣2mg	Glimepiride 2mg	健喬	$15/排	糖尿病	有
+AB47228100	桌上藥藍	Fenolip-U	祛脂優160mg	Fenofibrate 160mg	正和	$60/排	高血脂	有
+AB47532100	袋袋散藥	ANSURES	安胰敏緩釋錠					
 AB47629100		Tamso SR	替你坦舒持續膠囊0.2mg			$40/排		
+AB47656100	I架	MOPRIDE F.C.	摩舒胃清膜衣錠5mg					
+AB47671100	袋袋散藥	Glubose	利糖順錠50mg					
+AB47981100	桌上藥藍	Acarose	降醣佳錠50毫克	Acabose 50mg	生達	$30/排	糖尿病	有
+AB47984100	袋袋散藥	CARLIPIN	糖利平錠50mg					
+AB48089100	J架	DIAMIN MR	代蜜持續性藥效錠30mg					
 AB484841G0		Glucomin XR	立克醣緩釋錠500mg 		培力	$30/排		
+AB48506100	桌上藥藍	Epram	抑鬱10mg	Escitalopram 10mg	健亞	$150/排	抗憂鬱劑	有
+AB48878100	袋袋散藥	VAKIN CHRONO	妥撫癲持續性藥效膜衣錠500mg					
+AB48991100	桌上藥藍	NIRANDIL	利可心錠 5mg	NICORANDIL 5mg	生達	$50/排	狹心症	有
+AB49021100	袋袋散藥	PRATIN	脂樂潔錠20mg					
+AB49189100	抽屜藥袋	Loata	羅達50mg	Cilstazol 5mg	中國化學	$40/排	間歇性跛足	有
 AB49240100		Smilon	舒美寧膜衣錠15mg			$30/排		
+AB49342100	桌上藥藍	URNAL	優那0.2mg	Tamsulosin 0.2mg	貽丹	$70/排	攝護腺肥大	有
+AB49454100	N架	PRATIN	脂樂潔					
+AB49518100	袋袋散藥	NEUROQUEL F.C.	腦樂靜 膜衣錠100mg					
+AB49656100	J架	MIRTAPINE	美妥平口溶錠30mg					
+AB50240100	抽屜藥袋	Lowten	絡舒坦 50mg	Losartan 50mg	瑞士	$35/排	高血壓	有
 AB515971G0		Mirobect	脈樂必克50mg			$30/排		
 AB54977100		BuporinSRT	必博寧150mg		瑞安	$700/盒		
+AB55028100	袋袋散藥	IRBETAN F.C	爾壓順 膜衣錠150mg					
 AB55041100		Neuroquel	腦樂靜膜衣錠25mg		鼎豐宇	$50/排		
 AB55406100		Sinbisol	心舒康5mg			$20/排		
 AB55560100		Kludine MR	速糖淨60mg			$40/排		
+AB55564100	I架	MOSAD	胃莫傷錠5mg					
+AB55931100	抽屜藥袋	Zosatan	柔舒坦 50mg	Losartan 50mg	信東	$60/排	高血壓	有
+AB55990100	袋袋散藥	MOSA F.C.	摩暢膜衣錠5mg					
 AB57107100		Promone Soft cap	婦安蒙100mg			$140/排		
+AB57204100	桌上藥藍	IRBETAN	爾壓順膜衣錠300毫克	IRBESARTAN	健喬信元	$85/排	高血壓	有
+AB57206100	抽屜藥袋	Tamsulosin S.R. C	速流通 0.2mg	Tamsulosin 0.2mg	中化	$60/排	攝護腺肥大	有
+AB57225100	J架	Repaglinide	柔醣錠1mg					
+AB57234100	抽屜藥袋	OLSAA	優穩壓20mg	OLMESARTAN MEDOXOMIL	中國化學	$　　/排	高血壓	有
+AB57237100	I架	Losa&Hydro	那寶穩膜衣錠50/12.5mg					
 AB57275100		Risperidone	瑞波膜衣錠2mg			$2/粒		
+AB57848100	瓶裝藥	Fluoxetine Capsules	禧濱膠囊20mg					
+AB57940100	袋袋散藥	ROSULATOR F.C. 	利降脂膜衣錠10mg					
+AB58071100	J架	GLIMET F.C.	利控糖 膜衣錠2/500mg					
 AB58075100		Adapine S.R.F.C	壓悅達30mg		生達	$70/排		
+AC00178100	袋袋散藥	APREZIN	壓平利淨錠					
 AC00639100		Trynol	德利能25mg強生			$		
+AC00649100	袋袋散藥	TRYNOL S.C	德利能糖衣錠					
 AC008441G0		Trancolon	特良高朗7.5mg(安斯泰來)			$		
+AC010471G0	桌上藥藍	Uretropic	通舒錠40mg	FUROSEMIDE 40mg	杏林新生	$20/排	利尿	有
+AC01154100	桌上藥藍	INDOY CAPSULES	炎達益膠囊 25mg	INDOMETHACIN 25mg	生達	$20/排	消炎	有
+AC02320100	H架	ALEVIATIN	阿雷彼阿慶錠					
 AC023201G0		Aleviatin	阿雷彼阿慶錠100mg		東生華	$40/排		
+AC02368100	袋袋散藥	NADIS	納迪斯錠					
+AC02846100	瓶裝藥	WANSE	旺血糖衣錠					
+AC02863100	J架	GLIBEN	固利康錠					
+AC042211G0	抽屜藥袋	Lika	利甲錠 5mg	Methimazole 5mg	瑞士	$15/排	甲亢	有
+AC042761G0	抽屜藥袋	Eazide	壓宜寧錠2mg	Trichlormethiazide 2mg	瑞士	$20/排	高血壓	有
+AC047371G0	抽屜藥袋	Pilian	佩你安錠 4mg	Cyproheptadine 4mg	永信	$20/排	過敏性鼻炎	有
+AC04919100	J架	BAKTAR	撲菌特錠400mg					
+AC05811100	桌上藥藍	Strocain	息痛佳音錠 5/244mg	OXETHAZAINE/POLYMIGEL	衛采	$20/排	胃痛	有
+AC05813100	H架	SOLAXIN	舒肉筋新錠					
 AC059541G0		Cospanon	可使保朗膠囊40mg		衛采	$25/排		
+AC07543100	瓶裝藥	Folic Acid	榮民葉酸錠5mg	FolicAcid 5mg	榮民	$20/排	貧血	有
+AC075431G0	桌上藥藍	Folic Acid	榮民葉酸錠5mg	FolicAcid 5mg	榮民	$20/排	貧血	有
+AC09291100	I架	EUCLIDAN 	優庫利暖錠50mg					
+AC09619100	桌上藥藍	Bisadyl	秘瀉樂腸溶錠5mg	Bisacodyl 5mg	明德	$15/排	軟便	有
 AC099871G0		Colchicine	可爾信0.5mg		華興	$20/排		
+AC10358100	I架	HERBESSER	合必爽錠30mg					
 AC110121G0		Sketa CAP	派頓弛刻達複方膠囊			$30/排		
+AC13381100	抽屜藥袋	Cortisone	乙酸可體松錠	Cortisone 25mg	柏理	$30/排	消炎	有
 AC133811G0		Cortisone	乙酸可體鬆25mg		柏理	$30/排		
+AC136341G0	桌上藥藍	Dipyridamole	待匹力達25mg	Dipyridamole 25mg	生達	$20/排	狹心症	有
 AC138011G0		Dipyridamole	待匹力達糖衣錠25mg		生達	$		
+AC14228100	G架	ALLOPURINOL	安樂普利諾錠					
+AC143431G0	桌上藥藍	COBAMAMIDE	可巴麥膠囊	COBAMAMIDE CAPSULES 250mg	豐田	$65/包/28顆	B12	有
+AC15078100	G架	DIPHENIDOL	敵芬尼朵糖衣錠					
+AC15387100	H架	NAPOSIN	能百鎮錠250mg					
+AC15422100	I架	RELAZIDE	利吉得糖衣錠					
 AC154221G0		Relazide S.C.	利吉得100mg			$20/排		
 AC175081G0		Knowful	腦福膠囊400mg			$30/排		
+AC185691G0	抽屜藥袋	Spirotone	蘇拉通25mg	Spironolactone 25mg	榮民	$20/排	利尿劑	有
+AC187191G0	桌上藥藍	IMIMINE	益伊神糖衣錠25mg	IMIPRAMINE 25mg	榮民	$　　/排	憂鬱症夜尿	有
+AC189491G0	桌上藥藍	Bisacodyl	秘克的腸溶糖衣錠5mg	Bisacodyl 5mg	榮民	$20/排	軟便	有
 AC194181G0		Decone	得康錠0.5mg		杏輝	$10/排		
+AC19503100	I架	SINPHADOL	杏化樂糖衣錠					
 AC195031G0		Sinphadol	杏化樂糖衣錠25mg(杏輝)			$		
 AC200591G0		Loperamide cap	肚倍朗2mg			$20/排		
+AC21758100	J架	MEDICON-A	滅咳康複合膠囊					
+AC21923100	瓶裝藥	SODIUM BICARBONATE	碳酸氫鈉錠					
+AC221231G0	桌上藥藍	Imolex	依莫瀉 2mg	Loperamide 2mg	杏輝		止瀉	有
+AC22641100	桌上藥藍	ROSIS	樂泄錠 40mg	FUROSEMIDE 40mg	榮民	$15/排	利尿	有
 AC228361G0		Defense	怯潰膜衣錠300mg		永信	$30/排		
+AC229081G0	抽屜藥袋	Spironolactone	使排通錠25mg	Spironolactone 25mg	十全	$20/排	利尿劑	有
+AC22960100	瓶裝藥	Zinga	鋅寶錠10mg			$2/粒		
+AC22987100	I架	PRIMPERAN	腹寧朗膜衣錠					
+AC239181G0	桌上藥藍	Fluzine	服腦清錠5mg	Flumarizine 5mg	生達	$25/排	噁心 暈眩	有
+AC24053100	瓶裝藥	BLOODFULL	益血康糖衣錠					
 AC241871G0		Trental Dragee	循能泰糖衣錠100mg			$25/排		
 AC259251G0		Ancogen	安克腱錠		華興	$20/排		
+AC26105100	桌上藥藍	Elistin	益利循錠 1.5mg	Elistin 1.5mg	生達	$30/排	循環	有
+AC26328100	瓶裝藥	Newmazole	紐甲舒錠10mg			$		
+AC265261G0	桌上藥藍	Dogmatyl	脫蒙治膜衣錠50mg	Sulpride 50mg	賽諾菲	$30/排	精神病/潰瘍	有
+AC269841G0	袋袋散藥	PEACE	鼻福錠					
+AC27011100	G架	THRONE	克栓腸溶糖衣錠100mg					
 AC270111G0		THRONE	克栓腸溶糖衣錠100MG		永信	$20/排		
+AC274381G0	桌上藥藍	Isobide	易適倍10mg	Isosorbide 10mg	衛達	$20/排	狹心症	有
+AC274391G0	抽屜藥袋	NEDIPIN	乃得平膠囊10mg	NIFEDIPINE100mg	衛達化學	$30/排	高血壓	有
+AC27445100	袋袋散藥	SANDEL S.C. 	心滴舒糖衣錠50mg					
 AC274451G0		Sandel	心滴舒糖衣錠50mg			$20/排		
 AC275311G0		Prometin S.C.	補樂美淨5mg			$25/排		
+AC27598100	J架	FUCOU	去咳寧膠囊					
+AC27940100	瓶裝藥	Beesix	維六素錠50mg		榮民	$3/粒		
+AC28078100	桌上藥藍	SULPIN	舒復寧膜衣錠 200mg	SULPIRIDE 200mg	信東	$20/排	胃潰瘍	
+AC28079100	瓶裝藥	BUSIX	必得寧錠1mg					
+AC28333100	I架	LUCKYHEPA	肝福Ｒ膠囊					
 AC283331G0		Luckyhepa	肝福膠囊		永信	$		
+AC29037100	桌上藥藍	RELAX	如來舒膠囊 350/175	ACETAMINOPHEN/CARISOPRODOL	回春堂	$　　/排	止痛消炎	有
+AC29320100	袋袋散藥	AMIZIDE	安立壓錠					
+AC293561G0	桌上藥藍	MERISLON	敏使朗錠12mg	BETAHISTINE 12mg	衛采	$25/排	暈眩	有
+AC29572100	I架	SUZIN	舒腦膠囊5mg					
 AC295721G0		Suzin	舒腦膠囊5mg		生達	$20/排		
+AC29575100	I架	SUZIN	舒腦膠囊10mg					
+AC29617100	桌上藥藍	UROXATE	益樂尿錠200mg	FLAVOXATE200mg	衛達	$　　/排	尿道痙攣	有
+AC296301G0	I架	METHYCOBAL	彌可保膠囊500MG					
+AC296301G0	袋袋散藥	METHYCOBAL	彌可保膠囊500微公克					
+AC301201G0	桌上藥藍	CINTSU	心舒糖衣錠４０mg	VERAPAMIL HCL	永信	$20/排	狹心症	有
+AC30257100	桌上藥藍	AMANDA	安滿達膜衣錠100mg	AMANTADINE	衛達	$　　/排	帕金森氏	有
 AC303961G0		Colchicine	可樂喜定錠0.5mg		鹽野義	$30/排		
+AC305261G0	桌上藥藍	Spironolactone	歐得通25mg	Spironolactone 25mg	皇佳	$20/排	利尿劑	有
+AC306291G0	抽屜藥袋	Nakasser 	能得爽錠 30mg	Diltiazem	南光	$15/排	高血壓	有
+AC30742100	瓶裝藥	Apresoline	阿普利素寧糖衣錠25mg		美納	$2/顆		
 AC30743100		Apresoline	阿普利素寧糖衣錠50mg		美納	$2/顆		
+AC30879100	瓶裝藥	Apresoline	阿普利素寧糖衣錠10mg		美納	$2/顆		
+AC308941G0	J架	TOFRANIL S.C	妥富腦糖衣錠25mg					
+AC31113121	抽屜藥袋	Abilify	安立復5mg	Aripiprazole	大塚	$430/排	精神分裂症	有
+AC31119100	抽屜藥袋	Amantadine	硫酸安曼他定100mg	Amantadine 100mg	回春堂	$60/排	帕金森氏症	有
+AC31260100	袋袋散藥	HODRIN 	好如臨錠1.5公絲					
 AC31308100		Ticoquer	克蟲寧錠100mg		羅得化學	$30/排		
+AC31481100	桌上藥藍	SILIRIN	希利林膠囊 150mg	SILYMARIN 150mg	井田	$30/排	護肝	有
+AC31493100	抽屜藥袋	Chiphone	去痛錠 100mg	Benzbromarone 100mg	羅德	$30/排	痛風	有
 AC315341G0		Stable	血得平錠25mg			$15/排		
+AC31540100	桌上藥藍	Stable	血得平錠10mg	HYDRALAZINE 10mg	榮民	$　　/排	高血壓	有
+AC31609100	袋袋散藥	LIGISIN F.C.	濾脂清膜衣錠200mg	BEZAFIBRATE200mg	國嘉製藥	$　　/粒	高血脂	有
+AC31676100	H架	Compesolon	康速龍錠5mg					
 AC316761G0		Compesolon	康速龍錠5mg		瑞士	$20/排		
 AC320461G0		Dipyridamole	待匹力達75mg		永信	$20/排		
+AC322751G0	桌上藥藍	Ceporin	血樂平錠25mg	Captopril	信東	$15/排	高血壓	有
 AC323721G0		Conslife	秘福糖衣錠		永信	$35/排		
+AC32619100	桌上藥藍	NIDOLIUM	吐寧錠 10mg	DOMPERIDONE 10mg	杏輝	$15/排	止吐	有
+AC32642100	I架	GIKO FILM-COATED	循克膜衣錠9.6mg					
 AC326421G0		Giko	循克40mg			$30/排		
+AC328011G0	桌上藥藍	ALAT CAPSULES 10MG	心福膠囊１０公絲	NIFEDIPINE 10MG	永信	$30/排	高血壓	有
+AC33157100	I架	WEISUFU	胃舒服錠					
 AC332241G0		Diltisser	迪心贊錠30mg		中化	$10/排		
+AC33468100	I架	SILIMIN	賜得健膠囊150mg					
 AC33664100		Mesyrel	美舒鬱錠50mg美時			$		
+AC33933100	瓶裝藥	Carbizo	抗泌腫錠10mg		優生	$2/粒		
+AC341571G0	抽屜藥袋	Ceretal	血利持續性糖衣錠400mg	PENTOXIFYLLINE 400mg	信東	$30/排	循環	有
+AC343231G0	抽屜藥袋	Cowemin	可胃明錠 300mg	Cimetidine 300mg	井田	$30/排	胃潰瘍	有
+AC346211G0	桌上藥藍	Glutrol	利糖妥5mg	Glipizide 5mg	瑞安	$20/排	糖尿病	有
+AC346701G0	桌上藥藍	Folacin FCT	葉酸膜衣錠5mg	FolicAcid 5mg	強生	$20/排	貧血	有
+AC34854100	袋袋散藥	MACALOL SOFT	骨活醇軟膠囊0.25微克					
+AC36151100	J架	MUBROXOL	平痰息錠30mg					
 AC363491G0		Uformin	克醣錠500mg		十全	$20/排		
+AC365061G0	抽屜藥袋	Sunpylon	舒必朗錠 50mg	Sulpride	盛雲	$20/排	胃潰瘍	有
+AC36794100	桌上藥藍	PROCAL	普羅鈣錠 667mg	CALCIUM ACETATE 667mg	培力	$30/排	高磷酸鹽血症	有
+AC36966100	J架	CARTIL	卡迪爾錠30mg					
 AC369661G0		Cartil	卡迪爾錠30mg		健喬	$20/排		
+AC37140100	瓶裝藥	Befon	倍鬆錠10mg					
+AC37141100	瓶裝藥	Befon	倍鬆錠5mg		美時	$3/粒		
+AC372251G0	桌上藥藍	WECOLI 	胃可麗錠 25mg	BETHANECHOL 25mg	應元	$30/排	尿儲留	有
+AC37344100	G架	BOKEY	伯基腸溶微粒膠囊100mg					
 AC373441G0		Bokey	伯基100mg		永信	$1100/盒		
 AC373521G0		Hopan	和寧0.5mg			$20/排		
+AC374411G0	桌上藥藍	Biperin	帕金寧2mg	Biperiden 2mg	聯邦	$30/排	帕金森氏症	有
+AC37520100	瓶裝藥	CAPHOS TABLETS 667MG	鈣臨錠667毫克					
+AC37549100	袋袋散藥	TRENTINE F.C.	循必利膜衣錠9.6mg					
+AC37601100	I架	WELIZEN	胃利贊膜衣錠20mg					
+AC376791G0	抽屜藥袋	Beenrone	勉治錠50mg	Benzbromarone 50mg	永信	$20/排	痛風	有
+AC37685100	桌上藥藍	GEMD	脂福膜衣錠６００公絲	GEMFIBROZIL 600mg	永信	$40/排	高血脂	有
 AC376891G0		Aelocon	愛樂康糖衣錠50mg		永勝	$20/排		
 AC377201G0		Ursolic	膽速力錠100mg		政德	$30/排		
 AC379881G0		Goutil	去佟錠50mg			$20/排		
 AC38091100		Tengen	婷晴錠2mg			$80/盒		
+AC382041G0	桌上藥藍	CABUDAN	卡布登錠25mg	CAPTOPRIL25mg	健喬信元	$　　/排	高血壓	有
 AC388191G0		Romicon-A	樂滅咳複方膠囊		30/排	$30/排		
 AC390871G0		Trenfylline	循血敏持續錠400mg			$30/排		
 AC39239100		Broen-C	撲炎喜		南光	$3/粒		
+AC39304100	I架	ESTROMON	伊使蒙膜衣錠0.625mg					
 AC39403100		Lozutin	路脂定錠20mg		永信	$		
+AC39431100	桌上藥藍	Dopadine	多巴定膜衣錠100mg	Amantadine 100mg	瑞士	$60/排	帕金森氏症	有
 AC395841G0		Mebever	美必胃135mg			$20/排		
+AC395971G0	桌上藥藍	Switane	瑞丹2mg	TRIHEXYPHENIDYL 2mg	瑞士	$20/排	帕金森氏症	有
+AC39703100	J架	LABTAL F.C. 	壓血泰膜衣錠200mg					
 AC39790100		Benrone	免痛100mg		井田	$20/排		
+AC39822100	袋袋散藥	ESTRADE	益斯得錠					
+AC39863100	G架	GINKGO	銀之杏膜衣錠9.6mg					
 AC398631G0		Gincare	銀之杏9.6mg		永信	$40/排		
 AC399281G0		Kowell	康胃錠2mg		永勝	$15/排		
+AC400471G0	桌上藥藍	Bentomin 	得利糖錠 500mg	Metformin 500mg	十全	$20/排	糖尿病	有
 AC40090100		Acylete	敵疱治200mg		中化	$6/粒		
+AC40174100	袋袋散藥	BENZRO 	袪酸利膠囊100公絲					
 AC403991G0		Forflow	福流持續錠400mg		美時	$30/排		
+AC40699100	I架	GINKGOCENTRATE 	杏銀膜衣錠9.6mg					
 AC406991G0		Ginkgocentrate	杏銀膜衣錠9.6mg			$		
+AC40894100	I架	LIVORIN	利肝臨膠囊150mg					
+AC40986100	桌上藥藍	WEIMOK	胃莫潰 20mg	FAMOTIDINE 20mg	衛達	$　　/排	胃潰瘍	有
+AC40986100	I架	WEIMOK	胃莫潰膜衣錠20mg					
+AC41247100	桌上藥藍	Carpine	卡賓 200mg	Carbamazepine	信東	$30/排	神經痛	有
 AC413161G0		Colchicine	驅風錠0.5mg		信東	$10/排		
+AC41352100	I架	ULSTOP 	悅潰止膜衣錠					
 AC413521G0		Ulstop	悅潰止膜衣錠20mg		正和	$20/排		
+AC41488100	J架	FYLIN RETARD F.C.	暢循持續性膜衣錠400mg					
 AC414881G0		Fylin Retard	暢循持續性錠400mg		正和	$30/排		
+AC414971G0	抽屜藥袋	Atinol F.C	愛平諾100mg	Atenolol 100mg	健喬	$30/排	高血壓	有
+AC414971G0	桌上藥藍	ATINOL	愛平諾膜衣錠100毫克	ATENOLOL 100MG	健喬信元	$30/排	高血壓	
+AC414991G0	抽屜藥袋	Cirzodone	杏緩妥錠 50mg	Trazodone 25mg	杏輝	$20/排	抗憂鬱劑	有
+AC415451G0	桌上藥藍	Aldactin	愛達信錠25mg	Spironolactone 25mg	信東	$20/排	利尿	有
 AC415481G0		Anginar F.C.	立達脈25mg		瑞安	$20/排		
+AC41577100	瓶裝藥	Destone	去石寧錠540mg		南光	$5/粒		
 AC416061G0		Sinzac	信樂膠囊20mg			$30/排		
+AC41673100	瓶裝藥	SULFIN	速復利錠100mg					
+AC419521G0	桌上藥藍	Bao-Gan	保肝勇膠囊150mg	Silymarin 150mg	成大	$20/排	護肝	有
 AC422101G0		Genurso	健膽舒100mg		健亞	$30/排		
+AC42272100	瓶裝藥	Rowapraxin	柔瓦拉欣膜衣錠10mg			$5/粒		
+AC42536100	抽屜藥袋	Sevina	詩維娜	Estradiol/Norethindrone	健喬信元	$130/排	賀爾蒙	有
 AC42556100		Aricept	愛憶欣膜衣錠5mg		衛采	$1800/盒		有
 AC425841G0		Synbot	欣保錠20mg		健喬	$20/排		
+AC42619100	桌上藥藍	Fenolip	祛脂微粒膠囊200mg	Fenofibrate 200mg	正和	$70/排	高血脂	有
+AC42621100	袋袋散藥	CLOPINE	克慮平錠25mg					
+AC42660100	N架	ANBICYN	必百欣膜衣錠625mg					
+AC42754100	H架	EURICON 	優力康錠50mg					
 AC427541G0		Euricon	優力康錠50mg		健喬	$20/排		
+AC42863100	I架	FAMO	發馬膜衣錠20mg					
+AC42946100	桌上藥藍	SULMATYL	思邁蒂 50mg	SULPIRIDE 50mg	培力	$25/排	胃潰瘍	
+AC43074100	H架	TONSARIC	痛酸立克100mg					
 AC430741G0		Tonsaric	痛酸立克100mg		信東	$		
 AC43161500		Alcos-anal	益痔康栓劑200mg			$		有
 AC43188100		Teradrin	暢流2mg			$20/排		
+AC43317100	桌上藥藍	Conmy	服脈2mg	TERAZOSIN 2mg	信東	$20/排	前列腺肥大	有
+AC43335100	桌上藥藍	POLUPI	僕樂彼 50mg	PROPYLTHIOURACIL 50mg	汎生	$30/排	甲亢	有
+AC43364100	J架	COXINE	冠欣錠20mg					
 AC433641G0		Coxine	冠欣錠20mg		健喬	$30/排		
+AC43501100	I架	WINIFUL 	胃您好膜衣錠20mg					
+AC43632100	桌上藥藍	MELETIN	脈律循膠囊100mg	MEXILETINE HCL	信東	$35/排	高血壓	有
+AC43637100	袋袋散藥	NOGOUT	杏定痛錠50mg					
+AC43663100	袋袋散藥	ASCOTYL ENTERIC	暢血脈腸溶微粒膠囊100mg					
+AC436641G0	桌上藥藍	Espin	安心平腸溶微粒膠囊100mg	Aspirine 100mg	惠勝	$35/排	抗凝血	有
 AC43698100		Ufur cap	友復膠囊			$800/排		
+AC43704100	J架	ATINOL F.C.	愛平諾膜衣錠50mg					
+AC43862100	桌上藥藍	Cofarin	可化凝錠1mg	Warfarin 1mg	政德	$50/排	抗凝血	有
+AC43898100	G架	FLU-D	膚肯膠囊150mg					
+AC439271G0	桌上藥藍	Gouless	優諾50mg	Benzbromarone 50mg	生達	$20/排	痛風	有
+AC43931100	袋袋散藥	FELOPINE E.R. F.C.	紛落持續釋放膜衣錠10公絲					
 AC43950100		Tanatril	田納滋錠5mg			$110/排		
+AC43961100	J架	TERAZOSIN	替你舒壓錠2mg					
+AC440141G0	桌上藥藍	Userm	悠縮莫100mg	TOLPERISONE 100mg	順華	$20/排	疼痛性肌痙攣	有
 AC44041100		Meitifen	麥得炎緩釋錠75mg			$20/排		
+AC44114100	桌上藥藍	SUFLEX	速得舒錠 200mg	MEPHENOXALONE 200mg	永信	$20/排	肌肉鬆弛	有
+AC44114100	G架	SUFLEX	速得舒錠200mg					
+AC44115100	J架	MEQUITAZINE	過敏美奎錠5mg					
+AC44203100	抽屜藥袋	Havina	伴樂娜膜衣錠 1/0.5mg	Estradiol /Norethindrone	健喬	$120/排	避孕	有
 AC44248100		Folina	芙琳亞錠15mg		東洋	$1300/盒		
+AC44254100	桌上藥藍	Bethanechol	滯尿通錠25mg	Bethanecol 25mg	強生	$30/排	痛風	有
+AC44261100	I架	RICH	胃全膠囊30mg					
+AC44272100	瓶裝藥	FORMOROL	服莫喘錠					
+AC44295100	袋袋散藥	EDIOL F.C 	伊黛歐膜衣錠1mg					
+AC44365100	瓶裝藥	DAMPURINE 	舒解錠 25mg					
+AC44371100	桌上藥藍	Amopine	脈樂平5mg	Amoldipine 5MG	信東	$20/排	高血壓	有
+AC44481100	桌上藥藍	BIOZOLE TABLET 20MG	保幽樂錠20毫克	OMEPRAZOLE 20mg	中生		胃潰瘍	
 AC444981G0		Telin	鐵寧喘持續性錠200mg		生達	$		
+AC44547100	桌上藥藍	Telowsin	脈降錠2mg	TERAZOSIN 2mg	永信	$30/排	高血壓	有
+AC44572100	J架	FOXATE F.C	伏順膜衣錠200mg					
+AC44595100	G架	MINLIFE	敏福錠10mg					
 AC445951G0		Minlife	敏福錠10mg		永信	$20/排		
 AC44597100		Coxine SR	冠欣持續錠40mg		健喬	$350/盒		
 AC44687100		Amilo	脈平錠10mg		邁蘭	$60/盒		
+AC44689100	桌上藥藍	Thoin SRM	喘克緩釋微粒膠囊250mg	THEOPHYLLINE 250mg	永勝	$30/排	氣喘	
+AC44710100	G架	CETY 	協帝 膜衣錠10mg					
 AC447101G0		Cety	協帝膜衣錠10mg		永信	$20/排		
+AC44731100	桌上藥藍	LONGCARDIO	慢又低錠25mg	CARVEDILOL 25mg	永福	$50/排	高血壓	有
 AC44781100		Dextromethorphan	抵克特喜60mg		美時	$25/排		
 AC448431G0		Urosin	優心50mg	   		$20/排		
+AC44853100	桌上藥藍	Dophilin 	道福寧錠 2mg	Doxazosin 2mg	信東		高血壓	有
 AC448531G0		Dophilin	道福寧錠2mg		信東	$20/排		
+AC449241G0	桌上藥藍	Thoin SRM	喘克緩釋微粒膠囊125mg	THEOPHYLLINE 125mg	永勝	$25/排	氣喘	有
 AC449771G0		Gowell	固胃錠		惠勝	$10/排		
+AC45020100	桌上藥藍	MUSGUD	瑪舒可錠10mg	CYCLOBENZAPRINE 10mg	美時	$35/排	痙攣	有
+AC45085100	桌上藥藍	Amlodine	脈得順5mg	Amoldipine 5MG	寶齡	$20/排	高血壓	有
+AC45181100	抽屜藥袋	Synna	欣娜	Estradiol/Medroxyprogesterone	健喬信元	$110/排	賀爾蒙	有
+AC452471G0	桌上藥藍	Dobecon	肚比康 100mg	Mebeverine 100mg	永信	$30/排	消化異常	有
+AC452541G0	桌上藥藍	Synbot	欣保錠5mg	ENALAPRIL 5mg	健喬	$20/排	高血壓	有
+AC45267100	H架	"U-CHU" ACEO	痛立安長效膠囊90mg					
+AC45334100	抽屜藥袋	Midorine	邁妥林2.5mg	Midodrine 2.5mg	培力	$40/排	低血壓	有
+AC453831G0	桌上藥藍	Bafen	痛獲平5mg	Baclofen 5mg	瑞士	$20/排	止痛消炎	有
+AC45414100	袋袋散藥	ZAPINE	來特平錠100mg					
+AC455521G0	抽屜藥袋	Medrone	美得能 5mg	Medroxyprogesterone 5mg	優良化學	$30/排	賀爾蒙	有
+AC45646100	桌上藥藍	Deglu	抵克醣錠50mg	Acabose 50mg	美時	$20/排	糖尿病	有
+AC45700100	桌上藥藍	UROTROL	優合膜衣錠15mg	PROPIVERINE 15mg	健亞	$　　/排	尿失禁	有
 AC45923100		Meticort	美蒂舒錠4mg			$2/粒		
+AC45971100	袋袋散藥	ARHEUMA	雅努麻錠20mg					
 AC45972100		Denosin	停敏膜衣錠5mg		美時	$30/排		
 AC46018100		Fuprostate	護腺寧錠250mg		寶齡	$25/粒		
+AC46028100	抽屜藥袋	Fluitran	服爾伊得安錠2mg	Trichlormethiazide 2mg	鹽野義	$25/排	利尿降壓劑	有
+AC46067100	I架	PROTASE	優妙化腸溶微粒膠囊					
+AC46077100	袋袋散藥	ADARONE	艾達絡錠200公絲					
+AC46118100	瓶裝藥	B.H.L.	顫立靜錠2mg		中化	$2/顆		
 AC46166100		Tedalin chewable	鐵達寧咀嚼錠100mg			$20/排		
+AC46236100	瓶裝藥	B.H.L.	顫立靜錠5mg					
+AC46246100	I架	LANPO	永勝佳胃膠囊30mg					
+AC46351100	桌上藥藍	Dimotil	立消樂錠 5mg/212.5mg	METOCLOPRAMIDE/PANCREATIN	明德	$40/排	消化異常	有
 AC46385100		Etolac XL	樂達克定緩釋錠500mg		生達	$80/排		
+AC463861G0	桌上藥藍	Loxol SR	樂咳痰舒75mg	Ambroxol SR 75mg	健亞	$40/排	祛痰	有
+AC46404100	J架	SYNTREND	心全錠25mg					
 AC46525100		Nuxitam	敏思清膜衣錠1200mg			$40/排		
+AC46640100	J架	GRUMED 	達醣定錠2mg					
+AC46681100	N架	SYNTAM	欣坦膜衣錠1200mg					
+AC46699100	J架	SYNTREND	心全錠6.25mg					
 AC46733100		Glucomet	克醣美錠5/500mg			$150/盒		
+AC46758100	袋袋散藥	LA FERRUM	拿鐵嚼錠100公絲					
+AC46759100	桌上藥藍	MOCALM	永康緒膜衣錠 0.5mg	FLUPENTIXOL/MELITRACEN 0.5/10	瑞士	$25/排	焦慮	有
+AC467661G0	桌上藥藍	Glimaryl	革理蔓 2mg	Glimepiride 2mg	信東	$25/排	糖尿病	有
 AC46989100		Aricept	愛憶欣膜衣錠10mg		衛采	$1800/盒		有
+AC470441G0	抽屜藥袋	Akinfree	安汀復	Biperiden 2mg	新瑞	$20/排	帕金森氏症	有
 AC47050100		Your Iron	優利鐵150mg			$50/排		
+AC47086100	J架	ANKOMIN F.C.	美克糖膜衣錠500mg					
+AC47092100	J架	NILASEN	寧耳眩錠16mg					
+AC47232100	J架	NILASEN	寧耳眩錠24mg					
+AC473721G0	桌上藥藍	Indap	迅順1.5mg	Indapamide 1.5mg	生達	$20/排	高血壓	有
+AC474441G0	桌上藥藍	Uroso	利膽能100mg強生	URSODEOXYCHOLIC	強生	$30/排	膽結石	
 AC47456100		Hote Chewable	好鐵咀嚼錠100mg			$40/排		
+AC47638100	抽屜藥袋	Zapline	憂必晴膜衣錠50mg	Sertraline 50mg	羅德	$30/排	調節心情	有
+AC476481G0	抽屜藥袋	Dosin	道喜錠 10mg	Domperidone 10mg	信東	$10/排	止吐	有
 AC476561G0		Mopride	摩舒胃清膜衣錠5mg		東生華	$50/排		
+AC47679100	I架	Knowful Film	腦福 膜衣錠1200mg					
+AC476871G0	桌上藥藍	Henformin	漢伏醣膜衣錠850mg	Metformin 850mg	旭能	$25/排	糖尿病	
 AC47890100		Nasaga	希敏適60mg		大塚	$30/排		
+AC47901100	I架	SILYMARIN	賜康保肝膠囊150mg					
 AC479011G0		Silymarin	賜康保肝膠囊150mg		信東	$30/排		
 AC479661G0		Tone F.C.	靜安25mg			$40/排		
 AC48007100		Pioglit	順醣錠30mg			$120/盒		
 AC48057100		Anxotos	安索糖錠30mg		瑩碩	$240/盒		
+AC48082197	I架	SYNTAM	郝智內服溶液用顆粒劑1200mg					
+AC480871G0	抽屜藥袋	Tone F.C.	靜安10mg	Imipramine	明德	$30/排	調節情緒	有
 AC48128100		Diltelan	達爾能120mg		南光	$70/排		
+AC48168100	袋袋散藥	CARDIOL	心通寧錠6.25mg					
+AC48171100	I架	SILIMA 	信美寧膠囊					
 AC481711G0		Silima	信美寧150mg			$30/排		
+AC48181100	抽屜藥袋	Venina	維妮娜錠	Estradiol/Medroxyprogesterone	健喬信元	$180/排	賀爾蒙	有
+AC48191100	瓶裝藥	THYROID-S	活甲錠100mg					
 AC483441G0		Colian	可立安膠囊25mg		強生	$30/排		
 AC48363100		Musgud	瑪舒可5mg			$30/排		
+AC48377100	抽屜藥袋	Plestar	普益達 100mg	Cilostazol 100mg	倍斯特	$160/排	間歇性跛行	有
 AC48447100		Uridin F.C	優若亭2mg			$60/排		
 AC48467100		Utapine	優達平膜衣錠200mg			$350/排		
+AC48602100	桌上藥藍	Diazone	糖立敏錠 15mg	Pioglitazone 15mg	正和	$100/排	糖尿病	有
+AC48727113	I架	SYNTAM	郝智內服溶液用顆粒劑2400mg					
+AC48855100	桌上藥藍	Dibose	克血糖100mg	Acabose 100mg	元宙	$65/排	糖尿病	有
 AC48908100		Antilom F.C.	肌立健60mg		元宙	$5/粒		
+AC49061100	桌上藥藍	RELINIDE	醣立定錠	REPAGLINIDE	生達	$　　/排	糖尿病	有
+AC491141G0	抽屜藥袋	Daycose MR	簡醣 持續性 30mg	Gliclazide 30mg	衛達	$15/排	糖尿病	有
+AC49193100	I架	CATILON	腸必寧錠40mg					
+AC49204100	J架	LITACARBOSE	衛醣錠100mg					
 AC49453100		Easyfor	悅康持續藥效膠囊75mg		南光	$50/排		
 AC494661G0		Gliclax	糖立清30mg			$30/排		
 AC49469100		Carlatrend	卡心平錠6.25mg		永茂	$60/排		
 AC49496100		Utapine	優達平膜衣錠100mg			$300/排		
+AC49514100	桌上藥藍	Ibimo	愛彼脈 60mg	Isosorbide 60mg	十全	$30/排	狹心症	有
 AC49560100		Politone	寶利糖錠30mg			$5/排		
+AC49574100	桌上藥藍	Utapine	優達平膜衣錠25mg	QUETIAPINE25mg	聯邦化學	$154/排	精神分裂症	有
 AC49650100		Betacor	壓控樂5mg	Bisoprolol 5mg	生達	$25/排	高血壓	
+AC49653100	袋袋散藥	CALM-EZ F.C. 	康緒舒膜衣錠100mg					
+AC49741100	桌上藥藍	QUEROPIN	躁易平 200mg	QUETIAPINE 200mg	永信	$　　/排	躁鬱	有
+AC49816100	袋袋散藥	TORSIX	妥速適錠5mg					
+AC49833100	J架	LEVOZINE F.C. 	舒敏寧膜衣錠5mg					
+AC50008100	桌上藥藍	Uracare	友樂可10mg	TROSPIUM 10mg	天義	$60/排	平滑肌痙攣	有
 AC50027100		Pleya	欣行健錠100mg			$110/排		
+AC50083100	桌上藥藍	Calm-EZ	康緒舒 25mg	Quetiapine 25mg	瑞士	$40/排	思覺思條	有
 AC50087100		Fendown	悅脂易160mg		瑩碩	$40/排		
+AC50123100	袋袋散藥	LOCEMINE F.C.	樂洩敏膜衣錠5mg					
 AC50142100		Hydroquine	瘡寧膜衣錠200mg		信東	$50/排		
+AC50182100	桌上藥藍	METHIMAZOLE	甲硫嗎唑錠５mg	Methimazole 5mg	強生	$25/排	甲狀腺	有
+AC50210100	桌上藥藍	RHYNORM	律諾膜衣錠 150mg	PROPAFENONE 150mg	東生華	$180/排	心律不整	有
 AC503401G0		Sodium bicarbonate	碳酸氫鈉0.6mg			$30/排		
 AC50423100		Mafarin	脈化寧錠2.5mg			$60/排		
+AC50772100	袋袋散藥	MYCROS	脈可洛適錠0.5mg					
 AC51197100		Desora	治敏樂5mg		優生	$50/排		
-AC52354100		Venina	好克敏5mg		大塚	$20/排		
+AC52354100	袋袋散藥	NEOCETIN F.C	好克敏膜衣5mg					
+AC52530100	袋袋散藥	ATORIN F.C. 	降脂妥膜衣錠20mg					
+AC52537100	桌上藥藍	Rizatan	羅莎疼錠5mg	RIZATRIPTAN 5mg	保瑞聯邦	$65/粒	偏頭痛	有
 AC52566157		Rivast	理曼提內服液劑120ml			$1600/瓶		
+AC548631G0	抽屜藥袋	Lopirin	諾比林81mg	Aspirine 81mg	舜興	$20/排	抗凝血	有
+AC55118100	J架	URIEF	優列扶膠囊4mg					
+AC55245100	桌上藥藍	QUETIA	潰停亞 200mg	QUETIAPINE 200mg	五洲	$　　/排	躁鬱	
+AC55268100	袋袋散藥	ATORVA FILM-COATED	立舒脂膜衣錠 					
+AC55271100	抽屜藥袋	Cofarin	可化凝5mg	Warfarin 5mg	政德	$50/排	抗凝血	有
+AC55408100	桌上藥藍	Terodine	特洛定膜衣錠2mg	Tolterodine 2mg	萬海	$65/排	尿失禁	有
+AC55540100	桌上藥藍	Lesyn	樂壓定 6mg	Lacidipine 6mg	健喬信元	$95/排	高血壓	有
 AC555641G0		Mosad-TAB-5mg			五洲	$40/排		
+AC55566100	I架	MOSAPULIN 	腸安寧 膜衣錠					
 AC555661G0		Mosapulin	腸安寧 5mg		永信	$50/排		
 AC55584100		Mozapry	胃默適5mg			$30/排		
+AC558881G0	桌上藥藍	Folic acid	葉酸5mg	FolicAcid 5mg	應元	$25/排	貧血	有
+AC55895100	抽屜藥袋	Atorcal	柔脂10mg	Atorvastatin 10mg	十全	$70/排	高血脂	有
 AC55939100		Exmem	拾憶膜衣錠10mg		中化	$160/盒		
 AC55945100		Allevo	喜驅敏5mg		幸生	$40/排		
-AC56633100		Coniel	康你爾膜衣錠4mg		健喬	$60/排		
+AC55961100	桌上藥藍	CARISOMA TABLETS 250 MG	卡力舒錠250毫克	CARISOPRODOL 250mg	健亞生物	$30/排	緊張	
+AC56633100	袋袋散藥	CONIEL F.C.	康你爾膜衣錠4mg					
 AC56667100		Lecadopa	克帕樂錠25/100mg			$6/粒		
 AC56712100		Epine	東健膜衣錠25mg		東竹	$120/排		
+AC56720100	桌上藥藍	Synpid	脂淨膜衣錠160mg	FENOFIBRATE 160mg	健喬	$50/排	高血脂	有
 AC56778100		Salicret	液泌快膜衣錠5mg			$20/粒		
+AC56789100	袋袋散藥	JFS FCT "ROOT"	源諾膜衣錠180mg					
+AC57114100	I架	Amlodipine 	安壓得穩錠5mg					
+AC57117100	J架	Glimepiride	穩佳醣錠2mg					
+AC57127100	J架	Fexofenadine	飛敏耐膜衣錠60mg					
+AC57128100	桌上藥藍	Carvedilol	壓落保錠25mg	Carvedilol 25mg	中化	$20/排	高血壓	有
+AC57130100	N架	Rotlip	洛脂平膜衣錠10mg			$180/盒		
 AC571471G0		Alledine	敏帝膜衣錠60mg		永信	$25/排		
+AC571721G0	桌上藥藍	Eutomin	優糖平錠 850mg	Metformin 850mg	優良	$25/排	糖尿病	有
+AC57216100	桌上藥藍	Linicor	理脂 500/20mg	Lovastatin/Niacin	東生華	$150/排	高血脂	有
+AC57219100	J架	Nifedipine S.R.F.C.	恆脈循持續性膜衣錠30mg					
+AC57274100	I架	Lansoprazole	逸潰定膠囊30mg					
 AC57731100		Rakinson	律莎錠1mg			$2500/盒		
+AC57791100	I架	FAMOTIDINE	法瑪鎮膜衣錠20mg					
 AC57819100		Clopidogrel	可諾通"艾威群"F.C75mg		美時	$570/排		
+AC578451G0	抽屜藥袋	Glimepine	胰美平 2mg	Glimepiride 2mg	新瑞	$20/排	糖尿病	有
+AC57857100	袋袋散藥	Montelukast F.C.	息喘膜衣錠40mg					
+AC57891100	I架	Dipyridamole	所雷帝糖衣錠25mg					
 AC578911G0		Dipyridamole	所雷帝糖衣錠25mg		中化	$20/排		
+AC57921100	抽屜藥袋	Glipizide 	泌得贊 5mg	Glimepiride 5mg	中化	$15/排	糖尿病	有
+AC57944100	袋袋散藥	DOWN LIP-U 	脂利降錠160mg					
+AC58113100	桌上藥藍	Ferrin	鐵達血膠囊 	B12/FolicAcid/Iron	元宙	$80/排	貧血	有
+AC582401G0	J架	Tofranil S.C.	妥富腦糖衣錠10mg					
+AC58340100	J架	MONKAST F.C.	樂息喘膜衣錠10mg					
+AC58391100	桌上藥藍	Ecoxia	易克適膜衣錠60mg	Etoricoxib 60mg	瑞安	$120/排	關節炎	有
+AC58393100	抽屜藥袋	Urief	優列扶膜衣錠8mg	Silodosin 8mg	健喬	$190/排	前列腺肥大	有
+AC58534100	J架	Metformin F.C.	寬樂醣膜衣錠500mg					
 AC585341G0		Metformin	寬樂醣膜衣錠500mg		中化	$15/排		
+AC58548100	桌上藥藍	TAMLOSIN D	暢利淨D口溶錠0.2毫克	Tamsulosin 0.2mg	生達	$90/排	攝護腺肥大	
+AC58589100	瓶裝藥	MOCOLAX	肌緩痛錠					
 AC58623100		Aclonac	安舒悅膜衣錠100mg		健喬	$40/排		
+AC58633100	桌上藥藍	PITARTY	力脂替膜衣錠4mg	PITAVASTATIN4mg	中國化學	$　　/排	高血脂	有
+AC58639100	N架	ZULITOR	平脂膜衣錠4mg					
+AC58755100	桌上藥藍	Flexer ER	服樂適持續膜衣錠15mg	CYCLOBENZAPRINE15mg	健喬	$90/排	痙攣	
+AC58817100	N架	TAMOKAS	益利舒持續性藥效膜衣錠0.4mg					
+AC58838100	J架	URIEF F.C.	優列扶 膜衣錠4mg					
+AC589741G0	袋袋散藥	TENSOMIN 	糖舒寧錠500mg					
 AC58998100		Cecolex	希骨樂膠囊200mg		正和	$50/排		
+AC59185100	桌上藥藍	Febuton	達理痛膜衣錠80mg	Febuxostat 80mg	生達	$260/排	痛風	有
+AC59192100	N架	PITANXO	庇脂清膜衣錠4mg					
 AC59209100		Forliton  F.C.	伏痛好80mg		南光	$150/排		
 AC59251100		Agitin	愛脂婷錠10/20mg		瑩碩	$400/盒		
 AC59278100		Olmesardin	妥得降40mg			$260/盒		
+AC59393100	桌上藥藍	Lodiglit	雙革醣膜衣錠15/850mg	Metformin/Pioglitazone	生達	$95/排	糖尿病	有
+AC59398100	抽屜藥袋	Pivas FC	必脂舒 2mg	Pivastatin 2mg	健喬信元	$210/排	高血脂	有
+AC59407100	桌上藥藍	Irbest 	怡舒壓 300mg	Irbesartan 300mg	優生	$20/排	高血壓	有
+AC59415100	桌上藥藍	Amlos	安洛適5mg	Amoldipine 5MG	永茂	$40/排	高血壓	有
+AC59802100	瓶裝藥	K-SUPPLY	益鉀錠595mg					
+AC59841100	桌上藥藍	CO-VOSAA	可汎穩壓 80/12.5	HYDROCHLOROTHIAZIDE/VALSARTAN	中國化學	$60/排	高血壓	
+AC60201100	桌上藥藍	Co-Midis	倍壓妥錠 80/5mg	Telmisartan/Amoldipine	生達	$120/排	高血壓	有
+B018797100	瓶裝藥	SENOKOT	散肚祕錠					
+B020548100	N架	Tambocor	律博克錠100mg			$700/盒		
+BA24468100	J架	Baraclude	貝樂克膜衣錠1mg					
+BA24469100	J架	Baraclude	貝樂克膜衣錠0.5mg					
 BA24876100		Amaryl M	美爾胰膜衣錠2/500mg		賽諾菲	$120/盒		
+BA25798100	桌上藥藍	Robestar	魯士定膜衣錠10mg	ROSUVASTATIN	諾華	$　　/排	高血脂	有
+BA26206100	桌上藥藍	Letrozole	利妥柔"艾威群"FCT-2.5mg	LETROZOLE 2.5mg	美時	$500/排	乳癌	有
 BB20786100		Glucobay	醣祿錠50mg			$35/排		
 BB20787100		Glucobay	醣祿錠100mg			$65/排		
 BB24023100		Evista	鈣穩膜衣錠60mg		禮來	$1100/盒		
 BB25266100		Diamicron MR	岱蜜克龍持續錠60mg		施維雅	$250/盒		
 BB25653100		Apo-Quetiapine	安寶思樂錠100mg		鴻汶	$6/粒		
 BC051761G0		Burinex	理奧必瑞錠1mg		禾利	$250/盒		
+BC071521G0	J架	GLUCOPHAGE	庫魯化錠500					
+BC09147100	桌上藥藍	Imuran	移護寧50mg	Azathioprine	安沛	$18/粒	紅斑性狼瘡	有
+BC09554100	瓶裝藥	Lanoxin	隆我心0.25mg			$3/粒		
 BC11315100		Deanxit	得安緒膜衣錠10mg		禾利行	$35/排		
 BC14822100		Cordarone	臟得樂錠200mg		賽諾菲	$200/盒		
 BC14899100		Depakine	帝拔癲腸溶錠200mg		賽諾菲	$180/瓶		
 BC14902145		Depakine	帝拔癲口服液200mg/ml		賽諾菲	$250/瓶		
+BC16028100	J架	TEGRETOL CR 	癲通長效膜衣錠200mg					
 BC16194100		Trexan	治善錠2.5mg			$6/粒		
+BC16504100	I架	FERRUM HAUSMANN	富鐵好嚼錠					
 BC17125100		Concor	康肯5mg		台田	$300/盒		
 BC17283100		Metalcaptase	滿克特300mg			$330/盒		
+BC182311G0	J架	GLUCOPHAGE	庫魯化錠850mg					
+BC18279100	N架	PHYLLOCONTIN	菲康汀持續性藥效錠225mg					
 BC18542100		Clozaril	可致律100mg		邁蘭	$350/盒		
+BC196241G0	N架	XANTHIUM	善寧持續性藥效膠囊200mg					
+BC19626100	桌上藥藍	SIRDALUD	鬆得樂 2mg	TIZANIDINE 2mg	諾華	$　　/排		
 BC19631100		Apo-Capto	安保康錠12.5mg		鴻汶	$2/粒		
 BC19885100		Cardizem	凱帝心徐放錠90mg		台田	$8/粒		
+BC19918100	N架	Rytmonorm 	心利正膠囊150mg			$150/排		
 BC20174100		Betaloc	舒壓寧控釋錠100mg		AZ	$750/盒		
+BC20198100	桌上藥藍	PROSCAR	波斯卡 5mg	FINASTERIDE 5mg	默沙東	$　　/排	攝護腺肥大	
 BC20251100		Sinemet	心寧美錠25/100mg			$600/瓶		
 BC20452100		Dilatrend	達利全錠25mg		羅氏	$40/排		
+BC20509100	桌上藥藍	LAMICTAL	樂命達錠 50mg	LAMOTRIGINE 50mg	葛蘭素	$　　/盒	癲癇	有
+BC20510100	桌上藥藍	LAMICTAL	樂命達錠 100mg	LAMOTRIGINE 100mg	葛蘭素	$　　/盒	癲癇	有
 BC20862100		Cipram	舒憂膜衣錠20mg		禾利	$330/盒		
+BC20991100	N架	SIGMART	喜革脈錠5mg					
+BC21175100	袋袋散藥	ALFACALCIDOL	愛康鈣軟膠囊0.5微公克					
 BC21188100		Sandimmun Neoral	新體睦膠囊100mg			$7400/盒		
 BC21189100		Sandimmun Neoral	新體睦膠囊25mg			$2300/盒		
+BC21536100	N架	SEROXAT	克憂果20mg					
 BC216411G0		Doxaben	可迅錠2mg		輝瑞	$250/盒		
+BC21780100	N架	ZOLOFT	樂復得膜衣錠50mg					
 BC21914100		Cozaar	可悅您膜衣錠50mg		默沙東	$160/盒		
 BC22008100		Depakine	帝拔癲持續錠500mg		賽諾菲	$220/瓶		
 BC22043100		Prograf	普樂可復膠囊1mg			$1200/排		
+BC22064100	J架	PROZAC	百憂解錠20mg					
 BC22071100		Dilatrend	達利全錠6.25mg		羅氏	$35/排		
+BC22097100	桌上藥藍	FOLIROMIN	服樂明膜衣錠５０公絲	SODIUM FERROUS CITRATE 470.9mg	光亨	$35/排	貧血	
+BC221591G0	J架	TENORMIN	天諾敏錠100mg					
+BC22208100	J架	TEGRETOL	癲通錠200mg					
+BC22324100	N架	ZYPREXA	金普薩膜衣錠5mg					
+BC22376100	N架	PLAQUENIL	必賴克廔膜衣錠200mg					
 BC22462100		Femara	復乳納膜衣錠2.5mg		諾華	$1400/盒		
+BC22508100	N架	Topamax	妥泰膜衣錠100mg			$1800/盒		
+BC22509100	N架	Topamax 	妥泰膜衣錠 25mg			$420/盒		
+BC22535100	桌上藥藍	LASIX	來適泄錠40mg	FUROSEMIDE40mg	賽諾菲	$35/排	利尿	有
+BC22542100	N架	SEROQUEL	思樂康膜衣錠100mg					
+BC22543100	N架	SEROQUEL	思樂康膜衣錠25mg					
+BC22544100	N架	SEROQUEL	思樂康膜衣錠200mg					
+BC225931G0	抽屜藥袋	Atanaal	壓達能5毫克	Nifedipine 5mg	曼哈頓	$30/排	高血壓	有
 BC226101G0		Aldactone	安達通25mg		輝瑞	$240/盒		
 BC22641100		Novonorm	諾和隆錠1mg			$280/盒		
 BC22658100		Dostinex	過乳降錠0.5mg		輝瑞	$1100/瓶		
 BC22671100		Amaryl	瑪爾胰錠2mg		賽諾菲	$80/盒		
 BC22678100		Cardizem	凱帝心徐放錠180mg		台田	$13/粒		
+BC22726100	桌上藥藍	METHOTREXATE	滅殺除炎錠2.5mg	METHOTREXATE2.5mg	輝瑞	$　　/排	抗風濕	有
 BC22768100		Risperdal	理思必妥2mg			$12/粒		
+BC22778100	J架	SINGULAIR	欣流膜衣錠10mg					
+BC22782100	I架	PARIET 	百抑潰腸溶膜衣錠20mg					
 BC22783100		Detrusitol	得舒妥膜衣錠2mg		輝瑞	$15/粒		
 BC22858100		Exelon	憶思能膠囊3mg		諾華	$900/盒		
 BC22859100		Exelon	憶思能膠囊6mg		諾華	$900/盒		
@@ -668,29 +630,47 @@ BC22861100		Exelon	憶思能膠囊1.5mg		諾華	$900/盒
 BC22863100		Exelon	憶思能膠囊4.5mg		諾華	$900/盒		
 BC22882100		Requip	力必平膜衣錠0.25mg			$150/盒		
 BC22883100		Requip	力必平膜衣錠1mg			$350/盒		
+BC22917100	N架	XATRAL XL	扎特持續性藥效錠10mg					
 BC22920100		Etumine	意妥明40mg		吉富	$70/排		
+BC22997100	N架	Progor	保樂康緩釋膠囊180mg			$300/盒		
+BC23001100	N架	PROGOR	保樂康緩釋膠囊120mg					
+BC23016100	I架	ALLEGRA	艾來60MG					
 BC23086100		Prograf	普樂可復膠囊0.5mg			$800/排		
 BC23097100		Aromasin	諾曼癌素25mg		輝瑞	$1800/盒		
 BC23109100		Co-Diovan	可得安穩80/12.5mg		諾華	$170/盒		
 BC23128100		Blopress	博脈舒錠8mg		武田	$230/盒		
+BC23161100	N架	MICARDIS	必康平錠80mg					
+BC23162100	N架	MICARDIS	必康平錠40mg					
 BC23177100		Celebrex	希樂葆膠囊200mg		輝瑞	$150/盒		
 BC23179100		Detantol R.F.C	迪坦妥3mg		衛采	$85/排		
 BC23206100		Actos	愛妥糖錠30mg		武田	$300/盒		
+BC23215100	桌上藥藍	FENOGAL	芬諾克膠囊200mg	FENOFIBRATE200mg	天義	$　　/排	高血脂	有
 BC23220100		Co-Diovan	可得安穩160/12.5mg		諾華	$300/盒		
+BC23221100	I架	NEXIUM	耐適恩錠40MG					
 BC23266100		Co-Aprovel	可普諾維錠150/12.5mg		賽諾菲	$200/盒		
 BC23267100		Co-Aprovel	可普諾維錠300/12.5mg		賽諾菲	$340/盒		
+BC23293100	N架	ZANIDIP	利壓膜衣錠10mg					
 BC23373100		Diovan	得安穩膜衣錠80mg		諾華	$170/盒		
 BC23374100		Diovan	得安穩膜衣錠160mg		諾華	$250/盒		
 BC23381100		Topamax Sprinkle	妥泰分散膠囊25mg			$420/盒		
+BC23492100	桌上藥藍	SOLIAN	首利安錠 200mg	AMISULPRIDE 200mg	賽諾菲	$　　/排	思覺失調	有
 BC235031G0		Diamicron MR	岱蜜克龍持續錠30mg		施維雅	$140/盒		
+BC23524100	N架	TRILEPTAL	除癲達膜衣錠300mg					
+BC23548100	N架	SALAGEN	舒樂津錠劑5mg					
 BC23571100		Efexor XR	速悅持續性膠囊75mg		惠氏	$400/盒		
+BC23572100	瓶裝藥	ORFARIN	歐服寧5mg					
 BC23615100		Arava F.C	艾炎寧10mg		賽諾菲	$1020/盒		
+BC23654100	N架	MICARDIS PLUS	複必康平錠40/12.5mg					
 BC23655100		Cozaar	可悅您膜衣錠100mg		默沙東	$230/盒		
 BC23661100		Silvinol	喜必諾5mg			$40/排		
 BC237081G0		Isoptin	伊抒婷膜衣錠40mg			$240/盒		
 BC23711100		Doxaben XL	可迅持續性藥效錠4mg		輝瑞	$350/盒		
+BC23792100	桌上藥藍	XYZAL	驅異樂膜衣錠5mg	LEVOCETIRIZINE 5mg	葛蘭素	$35/排	過敏性鼻炎	有
 BC23799100		Betaloc	舒壓寧控釋錠25mg		AZ	$100/盒		
+BC23952100	J架	AVODART SOFT	適尿通軟膠囊0.5mg					
+BC23981100	I架	ARCOXIA 	萬克適錠60mg					
 BC23983100		Arcoxia	萬克適錠60mg		默沙東	$300/盒		
+BC24025100	J架	ASPIRIN	阿斯匹林腸溶膜衣錠100mg					
 BC240251G0		Aspirin	阿斯匹林腸溶膜衣錠100mg		拜耳	$220/盒		
 BC24039100		Concor	康肯1.25mg		台田	$90/盒		
 BC24047100		Abilify	安立復10mg		大塚	$800/排		
@@ -700,9 +680,11 @@ BC24131100		Crestor	冠脂妥膜衣錠10mg		AZ	$450/盒
 BC24171100		Stalevo	始立膜衣錠100/25/200mg			$700/瓶		
 BC24220100		Ebixa	憶必佳膜衣錠10mg		禾利行	$350/盒		
 BC24240100		Cymbalta	千憂解膠囊30mg		禮來	$620/盒		
+BC24250100	N架	VYTORIN	維妥力錠10/20mg					
 BC24339100		Simvahexal	喜克脂膜衣錠40mg			$240/盒		
 BC24391100		Caduet	脂脈優5mg/10mg		輝瑞	$380/盒		
 BC24392100		Caduet	脂脈優5mg/20mg		輝瑞	$480/盒		
+BC24403100	桌上藥藍	Harnalidge D tablets 	活路利淨D 口溶錠0.2毫克	Tamsulosin 0.2mg	安斯泰來	$85/排	前列腺肥大	有
 BC24421100		Efexor XR	速悅持續性膠囊37.5mg		惠氏	$350/盒		
 BC24585309		Divigel gel	迪維舒凝膠1mg		健喬	$15/支		
 BC24592100		Blopress	博脈舒加強錠16/12.5mg		武田	$320/盒		
@@ -714,12 +696,17 @@ BC24732100		Invega	思維佳持續性藥效錠3mg			$2500/盒
 BC24750100		Luvox	無鬱寧膜衣錠50mg			$300/盒		
 BC24770100		Certican 	卓定康錠0.25mg		諾華	$100/排		
 BC24824100		Exforge	易安穩膜衣錠5/80mg		諾華	$300/盒		
+BC24887100	N架	Seroquel XR	思樂康持續錠200mg			$60/排		
+BC24967100	桌上藥藍	Carvedilol Hexal 25mg	卡菲蒂羅錠25mg	Carvedilol 25mg	諾華	$350/盒	高血壓	有
+BC25001100	N架	SEROQUEL XR	思樂康持續錠50mg					
 BC25021100		Minirin	迷你寧凍晶口溶錠60ug			$1600/盒		
 BC25046100		Acertil Plus	雅施達加強錠5/1.25mg		施維雅	$10/顆		
 BC25072100		Exforge	易安穩膜衣錠5/160mg		諾華	$500/盒		
+BC25106100	N架	Wellbutrin XL	威克倦持續性藥效錠150mg					
 BC25114100		Clopidogrel Sandoz	舒栓寧75mg		諾華	$930/盒		
 BC25118100		Requip	力必平持續性膜衣錠2mg			$550/盒		
 BC25120100		Requip	力必平持續錠膜衣錠8mg			$2000/盒		
+BC25129100	N架	Xarelto	拜瑞妥膜衣錠10mg					
 BC25158100		Invega	思維佳持續性藥效錠9mg			$4700/盒		
 BC25224100		Multaq FCT	脈泰克膜衣錠400mg			$3600/盒		
 BC25253100		Mirapex PRT	樂伯克持續錠0.75mg			$3500/盒		
@@ -730,12 +717,17 @@ BC25326100		Coplavix	可保栓通75/100mg		賽諾菲	$1250/盒
 BC25391100		Catapres	降保適錠75ug		百靈佳	$30/排		
 BC25419100		Exforge HCT	力安穩5/160/12.5mg		諾華	$450/盒		
 BC25423100		Duodart	多適達		GSK	$1250/瓶		
+BC25427100	I架	FEBURIC	福避痛膜衣錠80MG					
+BC25446100	N架	TWYNSTA	倍必康平錠80/5mg					
+BC25451100	N架	VALDOXAN	煩多閃膜衣錠25mg					
 BC25458100		Pradaxa	普栓達膠囊150mg			$500/排		
 BC25480100		Galvus Met	高糖優美50/500mg			$550/盒		
 BC25481100		Galvus Met	高糖優美50/850mg			$550/盒		
 BC25482100		Galvus Met	高糖優美50/1000mg			$550/盒		
 BC25533100		Eltroxin	昂特欣錠50mcg		安沛	$200/瓶		
 BC25594100		Lipanthyl	弗尼利脂寧膜衣錠145mg			$150/盒		
+BC25648100	N架	Xarelto	拜瑞妥膜衣錠15mg					
+BC25674100	桌上藥藍	Carvedilol Hexal 6.25mg	卡菲蒂羅錠6.25mg	Carvedilol 6.25mg	諾華	$300/盒	高血壓	有
 BC25754100		Azamun	雅迅靈50mg		瑪科隆	$1700/盒		
 BC25756100		Edarbi	易得平錠40mg		武田	$400/盒		
 BC25792100		TrajentaDuo	糖倍平膜衣錠2.5/850mg			$900/盒		
@@ -745,27 +737,48 @@ BC26097100		Coralan	康立來5mg		施維雅	$1600/盒
 BC26124100		Eliquis	艾必克凝膜衣錠2.5mg		輝瑞	$2000/盒		
 BC26133100		Eliquis	艾必克凝膜衣錠5MG		輝瑞	$1900/盒		
 BC26136100		Fosamax	福善美保骨錠70mg/5600IU		默沙東	$700/盒		
+BC26169100	N架	PRAVAFEN	普脂芬40/160					
 BC26179100		Unisia	優雅錠8/5mg			$300/盒		
+BC26216100	J架	Betmiga	貝坦利持續性藥效錠50mg					
+BC26217100	J架	Betmiga	貝坦利持續性藥效錠25mg					
 BC26233100		Pradaxa	普栓達膠囊75mg			$300/排		
 BC26328100		Fycompa	癲控達膜衣錠2mg		衛采	$2000/盒		
 BC26453100		Pms-Desmopressin	沛卜淨錠0.1mg			$1500/瓶		
 BC26476100		Forxiga	福適佳膜衣錠10mg		AZ	$850/盒		
+BC26552100	桌上藥藍	Ezetimibe	脂易穩錠 10mg	EZETIMIBE 10mg	諾華	$　　/盒	高血脂	有
 BC26631100		Dicetel	得舒特膜衣錠100mg		亞培	$260/盒		
+BC26668100	桌上藥藍	Latuda	樂途達錠40mg	LURASIDONE	台灣住友	$1600/盒	思覺失調	有
 BC26671100		Entresto	健安心膜衣錠200mg		諾華	$5000/盒		
+BC26869100	N架	Rytmonorm SR	心利正膠囊225mg			$150/排		
+BC26870100	N架	Rytmonorm SR	心利正膠囊325mg			$150/排		
 BC26950100		Canaglu	可拿糖膜衣錠100mg		台田	$960/盒		
 BC26996100		Brintellix	敏特思F.C.10mg		禾利行	$1100/盒		
+BC27029100	N架	Visanne	異位寧2mg					
 BC27073100		Glyxambi	糖順平膜衣錠25/5mg			$1300/盒		
+BC27086100	N架	Vemlidy	韋立得膜衣錠25mg					
+BC27117100	N架	Xigduo XR	釋多糖持續性藥效膜衣錠10/1000mg					
 BC27283100		Atozet	優泰脂膜衣錠10/20mg		默沙東	$720/盒		
 BC27332100		Azilect	阿茲列特錠1mg		艾維斯	$2800/盒		
+BC27467100	N架	QTERN	控糖穩膜衣錠5mg/10mg					
 BC27473100		Aricept ODT	愛憶欣口崩錠10mg		衛采	$1800/盒		
+BC27752100	N架	Rasteride	理得順軟膠囊0.5mg					
+N012916100	瓶裝藥	Meclizine	美克利靜片25mg			$1/粒		
+NB00711100	桌上藥藍	PREDONINE	普力多寧錠 5mg	PREDNISOLONE 5mg	鹽野義	$30/排	消炎	有
+NB099311G0	I架	SANYL	暢力糖衣錠					
 NC00141100		Hychlozide	恆克利片25mg			$2/粒		
 NC00261100		Johnlax	通便樂腸溶錠5MG			$2/顆		
+NC01752100	桌上藥藍	Fronil SCT	福樂你25mg	Imipramine 25mg	強生	$20/排	夜尿	有
+NC01822100	桌上藥藍	Ferrous Gluco-B	維他葡萄糖鐵	Ferrous Glucomate 300mg	強生	$30/排	貧血	有
+NC02531100	H架	DONISON	樂爾爽					
 NC025311G0		Donison	樂爾爽錠5mg		中化	$20/排		
+NC033541G0	N架	VISTARIL	維泰寧膠囊25mg					
+NC036331G0	桌上藥藍	Aminophylline	氨基非林100mg	Aminophylline 100mg	應元	$25/排	高血壓	有
+NC04385100	瓶裝藥	WINSUMIN	穩舒眠12.5mg					
 NC049281G		Actibest	活杏必多糖衣錠		杏輝	$20/排		
+NC05616100	瓶裝藥	WINSUMIN	穩舒眠25mg					
 NC06263100		Bismuth	次碳酸鉍錠0.324g		人人	$2/顆		
 NC062711G0		Colchicine	秋水仙鹼片0.5mg		健喬	$20/排		
 NC081381G0		Tricozide	多利固財2mg			$30/排		
+TSS01000081R	N架	ACCU-CHEK GUIDE-GLUCOSE TSET STRIP	羅氏智航血糖機組-血糖試紙					
 X000194100		Digosin TAB-0.25mg			韋淳	$5/粒		
 		Vioment	整腸錠			$1/粒		
-AC31609100	袋袋散藥	LIGISIN F.C.	濾脂清膜衣錠200mg	BEZAFIBRATE200mg	國嘉製藥	$　　/粒	高血脂	有
-AC269841G0	袋袋散藥	PEACE	鼻福錠					
