@@ -37,6 +37,7 @@ $(document).ready(function() {
     "columns": [
       { "data": "健保碼", "defaultContent": "" },
       { "data": "位置", "defaultContent": "" },
+      { "data": "層架", "defaultContent": "" },
       { "data": "英文商品名", "defaultContent": "" },
       { "data": "中文商品名", "defaultContent": "" },
       { "data": "成分", "defaultContent": "" },
