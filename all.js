@@ -35,7 +35,7 @@ $(document).ready(function() {
       "url": "https://cdn.datatables.net/plug-ins/1.11.3/i18n/zh_Hant.json"
     },
     "columns": [
-      { "data": "健保碼", "defaultContent": "" },
+      { "data": "健保碼/國際代碼", "defaultContent": "" },
       { "data": "位置", "defaultContent": "" },
       { "data": "層架", "defaultContent": "" },
       { "data": "英文商品名", "defaultContent": "" },
