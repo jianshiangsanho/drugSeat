@@ -493,9 +493,9 @@ BC23162100	健C區	四	MICARDIS	必康平錠40mg
 BC23654100	健C區	三	MICARDIS PLUS	複必康平錠40/12.5mg				
 BC20826100	健C區	三	Minirin	MINIRIN TABLETS 0.1mg			$1600/盒	
 BC25021100	健C區	三	Minirin	迷你寧凍晶口溶錠60ug			$1600/盒	
-BC23282100	健C區	三	MIRAPEX	樂伯克錠１mg				
-BC25258100	健C區	三	MIRAPEX	樂伯克錠0.375mg				
-BC25260100	健C區	三	MIRAPEX	樂伯克錠1.5mg				
+BC23282100	健C區	五	MIRAPEX	樂伯克錠１mg				
+BC25258100	健C區	五	MIRAPEX	樂伯克錠0.375mg				
+BC25260100	健C區	五	MIRAPEX	樂伯克錠1.5mg				
 BC223871G0	健C區	三	NATRILIX SR	鈉催離持續性藥效膜衣錠1.5mg				
 BC26700100	健C區	三	NEBILET	耐比洛錠5mg				
 BC26298100	健C區	三	NESINA	耐釋糖膜衣錠25mg				
@@ -507,7 +507,7 @@ BC23221100	健C區	三	NEXIUM	耐適恩錠40MG
 AA42704100	健C區	三	NOBAR	諾怡錠5mg				
 AC41807100	健C區	三	NOGOUT	杏定痛錠100mg				
 BC22154100	健C區	三	NOLVADEX	諾瓦得士錠10mg				
-AB45412100	健C區	三	NOOPOL	腦寶膜衣錠1200mg				
+AB45412100	健C區	五	NOOPOL	腦寶膜衣錠1200mg				
 BC21571100	健C區	三	NORVASC	脈優錠5mg				
 BC17140100	健C區	三	OLBETAM	脂倍坦膠囊 250mg				
 BC24497100	健C區	三	Olmetec	雅脈膜衣錠20mg				
@@ -520,8 +520,8 @@ AA57372100	健C區	二	Pitator	必抑脂膜衣錠2
 BC22376100	健C區	二	PLAQUENIL	必賴克廔膜衣錠200mg				
 BC22932100	健C區	二	PLAVIX	保栓通75mg				
 BC26453100	健C區	二	Pms-Desmopressin	沛卜淨錠0.1mg			$1500/瓶	
-BC25458100	健C區	二	Pradaxa	普栓達膠囊150mg			$500/排	
-BC25459100	健C區	二	Pradaxa	普栓達膠囊110mg			$500/排	
+BC25458100	健C區	五	Pradaxa	普栓達膠囊150mg			$500/排	
+BC25459100	健C區	五	Pradaxa	普栓達膠囊110mg			$500/排	
 AB49454100	健C區	二	PRATIN	脂樂潔				
 BC26169100	健C區	二	PRAVAFEN	普脂芬40/160				
 BC22997100	健C區	二	Progor	保樂康緩釋膠囊180mg			$300/盒	
@@ -576,7 +576,7 @@ BC196241G0	健D區	二	XANTHIUM	善寧持續性藥效膠囊200mg
 BC25129100	健D區	二	Xarelto	拜瑞妥膜衣錠10mg				
 BC25648100	健D區	二	Xarelto	拜瑞妥膜衣錠15mg				
 BC22917100	健D區	二	XATRAL XL	扎特持續性藥效錠10mg				
-BC27117100	健D區	二	Xigduo XR	釋多糖持續性藥效膜衣錠10/1000mg				
+BC27117100	健D區	五	Xigduo XR	釋多糖持續性藥效膜衣錠10/1000mg				
 BC23293100	健D區	二	ZANIDIP	利壓膜衣錠10mg				
 BC21780100	健D區	二	ZOLOFT	樂復得膜衣錠50mg				
 AC58639100	健D區	二	ZULITOR	平脂膜衣錠4mg				
@@ -856,3 +856,5 @@ AC48467100			Utapine	優達平膜衣錠200mg			$350/排
 AC49496100			Utapine	優達平膜衣錠100mg			$300/排	
 AC47050100			Your Iron	優利鐵150mg			$50/排	
 BC24437100	健D區	二	Vesicare	衛喜康6mg				
+BC25159343	健D區	五	XAMIOL GEL	絲玫歐凝膠				
+AC59040111	健B區	五	ACTEIN EFFERVESCENT GRANULES 600MG	愛克痰發泡顆粒 600毫克				
