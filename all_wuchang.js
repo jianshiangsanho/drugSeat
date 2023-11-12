@@ -24,7 +24,7 @@ function tsvToJson(tsv) {
       "responsive": true,
       "suppressWarnings": true,
       "ajax": {
-        "url": "data.tsv",
+        "url": "wuchang.tsv",
         "dataType": "text",
         "dataSrc": function(tsv) {
           var data = tsvToJson(tsv);
