@@ -36,6 +36,7 @@ $(document).ready(function() {
     },
     "columns": [
       { "data": "健保碼/國際代碼", "defaultContent": "" },
+      { "data": "編號", "defaultContent": "" },
       { "data": "位置", "defaultContent": "" },
       { "data": "層架", "defaultContent": "" },
       { "data": "英文商品名", "defaultContent": "" },
