@@ -47,7 +47,7 @@ $(document).ready(function() {
       { "data": "適應症", "defaultContent": "" },
     ],
     "initComplete": function () {
-      this.api().columns(1).every(function () {
+      this.api().columns(2).every(function () {
         var column = this;
         var select = $('<select><option value=""></option></select>')
           .appendTo($(column.header()).empty())
