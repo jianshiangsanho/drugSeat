@@ -153,12 +153,12 @@ A036349100		內H區		UFORMIN	克醣錠500mg
 AC55118100		內H區		URIEF	優列扶膠囊4mg						
 AC58838100		內H區		URIEF F.C.	優列扶 膜衣錠4mg						
 AA57950100		抽屜散藥		ATOVER F.C. TABLETS 20MG "P.L.	"培力"抑脂妥膜衣錠20毫克						
-AC44602100		抽屜散藥		BIDOPAR	拜渡帕錠２５/２５０毫克						
+AC44602100		無庫存		BIDOPAR	拜渡帕錠２５/２５０毫克						
 BC26996100		抽屜散藥		BRINTELLIX	敏特思膜衣錠10毫克						
 BC26914100		抽屜散藥		Capecitabine	艾卡培"艾威群"膜衣錠500毫克						
 AC48309100		抽屜散藥		Carvio Tablets 6.25mg	鬱心平錠6.25毫克						
 BC21757100		抽屜散藥		CELLCEPT	山喜多膠囊２５０毫克						
-BC25326100		抽屜散藥		COPLAVIX	可保栓通膜衣錠75毫克/100毫克						
+BC25326100		無庫存		COPLAVIX	可保栓通膜衣錠75毫克/100毫克						
 BC27421100		抽屜散藥		CREON 25000	卡利消腸溶微粒膠囊 25000						
 BC24129100		抽屜散藥		CRESTOR 20MG	冠脂妥膜衣錠20公絲						
 BC271571G0		抽屜散藥		DIABETMIN TABLET 500MG	降糖敏膜衣錠500毫克						
@@ -175,7 +175,7 @@ AC59872100		抽屜散藥		Fofnir	芙?寧膜衣錠300毫克
 BC26328100		抽屜散藥		Fycompa	癲控達膜衣錠2毫克						
 AC47913100		抽屜散藥		Gestrin	佑汝膠囊2.5毫克						
 BC24006100		抽屜散藥		GLUCOVANCE	庫魯泛斯錠 500公絲/5公絲						
-BC19475209		抽屜散藥		HALDOL DECANOAS	好度得注射液						
+BC19475209		無庫存		HALDOL DECANOAS	好度得注射液						
 BC23135100		抽屜散藥		HYDREA	愛治膠囊500 毫克						
 BC24732100		抽屜散藥		INVEGA	思維佳持續性藥效錠 3毫克						
 BC25158100		抽屜散藥		INVEGA	思維佳持續性藥效錠 9毫克						
@@ -189,9 +189,9 @@ AC58596100		抽屜散藥		OMESAR	順脈暢膜衣錠20毫克
 AC57731100		抽屜散藥		RAKINSON	律莎錠1000mg						
 BC27368100		抽屜散藥		REXULTI	銳思定						
 BC21189100		抽屜散藥		SANDIMMUN NE	新體睦軟膠囊25毫克						
-BC22779100		抽屜散藥		SINGULAIR	欣流咀嚼錠5毫克						
+BC22779100		內H區		SINGULAIR	欣流咀嚼錠5毫克						
 AC59215100		抽屜散藥		SOLIN	頌寧膜衣錠5毫克						
-BC24517100		抽屜散藥		Strattera	思銳膠囊40毫克						
+BC24517100		無庫存		Strattera	思銳膠囊40毫克						
 BC23381100		抽屜散藥		TOPAMAX SPRINKLE CA	妥泰分散型膠囊2５公絲						
 AC31113121	1	桌上藥藍		Abilify	安立復5mg	Aripiprazole	大塚	$430/排	精神分裂症	FALSE	
 BC27750100		抽屜散藥		Xarelto film-coated tablets 2.5mg	拜瑞妥膜衣錠2.5毫克						
@@ -595,7 +595,7 @@ BC26406100		健B區	二	Jardiance	恩排糖膜衣錠10mg	Empagliflozin 10 MG
 BC27039100		健B區	二	Jardiance Duo	恩美糖膜衣錠12.5/850mg	Empagliflozin 12.5 MGMETFORMIN HCL 850 MG					
 BC23889100		健B區	二	KEPPRA	優閒 膜衣錠500mg	LEVETIRACETAM 500 MG					
 BC18273100		健B區	二	KETOSTERIL	吉多利錠	HISTIDINE L- 38 MGLYSINE L- ACETATE 105 MGTHREONINE L- 53 MGTRYPTOPHAN L- 23 MGTYROSINE L- 30 MGCALCIUM-3-METHYL-2-OXO-VALERATE 67 MG					
-BC25453100		健B區	二	KOMBIGLYZE XR	康併莎持續性藥效膜衣錠5mg/1000mg	SAXAGLIPTIN 5 MGMETFORMIN HCL 1000 MG					
+BC25453100		無庫存	二	KOMBIGLYZE XR	康併莎持續性藥效膜衣錠5mg/1000mg	SAXAGLIPTIN 5 MGMETFORMIN HCL 1000 MG					
 AC477711G0		健B區	二	Lafuzo XL	列優治持續性藥效錠10mg	ALFUZOSIN HCL					
 AA49629100		健B區	二	Leeyo	離憂膜衣錠10mg	ESCITALOPRAM (AS OXALATE) 10 MG		$100/排180/盒			
 BC25090100		健B區	二	LEPAX	得緒安膜衣錠 10 mg	ESCITALOPRAM (AS OXALATE) 10 MG					
@@ -638,7 +638,7 @@ BC26124100		健B區	四	Eliquis	艾必克凝膜衣錠2.5mg	Apixaban 2.5 MG	輝�
 BC26133100		健B區	四	Eliquis	艾必克凝膜衣錠5MG	Apixaban 5 MG	輝瑞	$1900/盒			
 BC24708100		健B區	四	Eltroxin	昂特欣錠100mcg	LEVOTHYROXINE SODIUM 0.1 MG	安沛	$200/瓶			
 BC25533100		健B區	四	Eltroxin	昂特欣錠50mcg	LEVOTHYROXINE SODIUM 0.05 MG	安沛	$200/瓶			
-AC59028100		健B區	四	ENTAPON	恩克帕膜衣錠200mg	ENTACAPONE 200 MG					
+AC59028100		抽屜散藥	四	ENTAPON	恩克帕膜衣錠200mg	ENTACAPONE 200 MG					
 BC26671100		健B區	四	Entresto	健安心膜衣錠200mg	SACUBITRIL/VALSARTAN AS SACUBITRIL VALSARTAN SODIUM SAL 200 MG	諾華	$5000/盒			
 BC26672100		健B區	四	ENTRESTO	健安心100mg	SACUBITRIL/VALSARTAN AS SACUBITRIL VALSARTAN SODIUM SAL 100 MG					
 AC57883100		健B區	四	Evoxac	愛我津膠囊30mg	Cevimeline HCl 30 MG					
@@ -809,7 +809,7 @@ AC40174100		袋袋散藥		BENZRO 	袪酸利膠囊100mg
 AC49653100		袋袋散藥		CALM-EZ F.C. 	康緒舒膜衣錠100mg						
 AB47984100		無庫存		CARLIPIN	糖利平錠50mg						
 AC48168100		袋袋散藥		CARDIOL	心通寧錠6.25mg						
-AC59395100		無庫存		CO-AMNDILINE	可得寧膜衣錠5/10毫克						
+AC59395100		抽屜散藥		CO-AMNDILINE	可得寧膜衣錠5/10毫克						
 AC42621100		袋袋散藥		CLOPINE	克慮平錠25mg						
 AC56633100		袋袋散藥		CONIEL F.C.	康你爾膜衣錠4mg						
 AC33675100		袋袋散藥		DECLOT	敵血栓膜衣錠100mg						
@@ -889,3 +889,5 @@ A013382100		瓶裝藥		MAGNESIUM OXIDE	氧化鎂錠250mg	MAGNESIUM OXIDE
 BC28182100		健A區		CRETROL TAB. 10/20 MG	脂瑞妥錠10/20毫克	ROSUVASTATIN CALCIUM 20.8 MG/EZETIMIBE 10 MG	東生華				
 AB515971G0		抽屜散藥		Mirobect Tablet 50 MG	脈樂必克膜衣錠50毫克	ATENOLOL 50 MG					
 BC266371G0		抽屜散藥		Metsafe 1000 ER	抑糖穩緩釋錠1000毫克	METFORMIN HCL 1000 MG					
+AC19461100		抽屜散藥		METHYLDOPA F.C. TABLETS "JOHNSON"	強生"脈得保膜衣錠	METHYLDOPA ANHYDROUS 250 MG					
+AC49763100		抽屜散藥		NOLIDIN TABLETS"Y.C."	〝元宙〞胃瑞美錠	BUTINOLIN PHOSPHATE 2 MG/DRIED ALUMINUM HYDROXIDE GEL 200 MG/CALCIUM CARBONATE 300 MG					
