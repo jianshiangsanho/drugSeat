@@ -796,13 +796,13 @@ AC46077100		袋袋散藥		ADARONE	艾達絡錠200mg	AMIODARONE HCL 200 MG
 BC21175100		無庫存		ALFACALCIDOL	愛康鈣軟膠囊0.5微公克						
 AC57147100		袋袋散藥		ALLEDINE	敏帝膜衣錠60毫克	FEXOFENADINE HYDROCHLORIDE 60 MG					
 AC29320100		袋袋散藥		AMIZIDE	安立壓錠	AMILORIDE (HCL) 5 MG /HYDROCHLOROTHIAZIDE 50 MG					
-AB47532100		袋袋散藥		ANSURES	安胰敏緩釋錠	METFORMIN HCL 500 MG					
+AB47532100		無庫存		ANSURES	安胰敏緩釋錠	METFORMIN HCL 500 MG					
 AC00178100		無庫存		APREZIN	壓平利淨錠	HYDRALAZINE HCL 10 MG					
 AC50130100		袋袋散藥		ANXOTOS TABLETS 15 MG	安索糖錠 15 毫克	PIOGLITAZONE 15 MG					
 AC43663100		無庫存		ASCOTYL ENTERIC	暢血脈腸溶微粒膠囊100mg						
 AC45971100		袋袋散藥		ARHEUMA	雅努麻錠20mg	LEFLUNOMIDE 20 MG					
 AC52530100		袋袋散藥		ATORIN F.C. 	降脂妥膜衣錠20mg	ATORVASTATIN (CALCIUM) 20 MG					
-AC55268100		袋袋散藥		ATORVA FILM-COATED	立舒脂膜衣錠  40mg	ATORVASTATIN (CALCIUM) 40 MG					
+AC55268100		無庫存		ATORVA FILM-COATED	立舒脂膜衣錠  40mg	ATORVASTATIN (CALCIUM) 40 MG					
 AB31138100		袋袋散藥		BEFAT	必克脂膜衣錠200公絲						
 AC10917100		袋袋散藥		BEHYD	泌排特錠						
 34537		無庫存		CaCO3	碳酸鈣 500mg						
@@ -811,12 +811,12 @@ AC49653100		袋袋散藥		CALM-EZ F.C. 	康緒舒膜衣錠100mg
 AB47984100		無庫存		CARLIPIN	糖利平錠50mg						
 AC48168100		袋袋散藥		CARDIOL	心通寧錠6.25mg						
 AC59395100		抽屜散藥		CO-AMNDILINE	可得寧膜衣錠5/10毫克						
-AC42621100		袋袋散藥		CLOPINE	克慮平錠25mg						
+AC42621100		無庫存		CLOPINE	克慮平錠25mg						
 AC56633100		袋袋散藥		CONIEL F.C.	康你爾膜衣錠4mg						
 AC33675100		袋袋散藥		DECLOT	敵血栓膜衣錠100mg						
 AC51197100		袋袋散藥		DESORA	治敏樂膜衣錠 5 毫克						
 AC44781100		袋袋散藥		DETOSIV	抵克特喜						
-AC44295100		無庫存		EDIOL F.C 	伊黛歐膜衣錠1mg						
+AC44295100		袋袋散藥		EDIOL F.C 	伊黛歐膜衣錠1mg						
 AB429081G0		袋袋散藥		DIAMIN TABLETS 80MG	代蜜錠８０公絲						
 AC48128100		袋袋散藥		Diltelan 	達爾能持續性膠囊120毫克						
 AC39822100		袋袋散藥		ESTRADE	益斯得錠						
@@ -824,13 +824,13 @@ AC43931100		袋袋散藥		FELOPINE E.R. F.C.	紛落持續釋放膜衣錠10mg
 AC40986100	180	桌上藥藍		WEIMOK	胃莫潰 20mg	FAMOTIDINE 20mg	衛達	$　　/排	胃潰瘍		
 AC31260100		袋袋散藥		HODRIN 	好如臨錠1.5mg						
 AC47002100		袋袋散藥		FONOSIL	壓速利錠10公絲						
-AB47671100		袋袋散藥		Glubose	利糖順錠50mg						
+AB47671100		無庫存		Glubose	利糖順錠50mg						
 BC26778100		袋袋散藥		Inovelon	克雷葛 膜衣錠 400毫克						
 NC00261100		抽屜散藥		JOHNLAX	通便樂腸溶錠						
 AB55028100		袋袋散藥		IRBETAN F.C	爾壓順 膜衣錠150mg						
 AC56789100		袋袋散藥		JFS FCT "ROOT"	源諾膜衣錠180mg						
 AC24474100		無庫存		LIDIN	立定錠300毫克						
-AC31609100		無庫存		LIGISIN F.C.	濾脂清膜衣錠200mg	BEZAFIBRATE200mg	國嘉製藥	$　　/粒	高血脂		
+AC31609100		袋袋散藥		LIGISIN F.C.	濾脂清膜衣錠200mg	BEZAFIBRATE200mg	國嘉製藥	$　　/粒	高血脂		
 AC46758100		袋袋散藥		LA FERRUM	拿鐵嚼錠100mg						
 AC44916100		袋袋散藥		LABUTON	樂不痛膜衣錠500 毫克						
 AC48182100		無庫存		MEGEJOHN	美雅祥錠160毫克						
@@ -897,3 +897,5 @@ NC052251G0		抽屜散藥		Sodium bicarbonate 0.3g	碳酸氫鈉片0.3克	Sodium b
 AB46016100		內H區		TAMLOSIN S.R. CAPSULES 0.2MG	"生達" 暢利淨持續釋放膠囊0.2公絲	TAMSULOSIN HCL 0.2 MG					
 X000262100		抽屜散藥		HYDRALAZINE HYDROCHLORIDE 50MG	(專案進口)凱沛爾50mg	Hydralazine 50mg					
 AC44331100		前台抽屜D		FINTA F.C TABLETS 5MG	"南光"快得膜衣錠５公絲	FINASTERIDE 5 MG					
+AC403991G0		抽屜散藥		FORFLOW SUSTAINEDRELEASED TABLETS 400MG	"美時"福流持續釋放錠400毫克	PENTOXIFYLLINE 400 MG					
+AC194181G0		袋袋散藥		DECONE TABLETS "SINPHAR"	"杏輝" 得康錠	DEXAMETHASONE 0.5 MG					
