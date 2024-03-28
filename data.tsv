@@ -826,7 +826,7 @@ AC31260100		袋袋散藥		HODRIN 	好如臨錠1.5mg
 AC47002100		袋袋散藥		FONOSIL	壓速利錠10公絲						
 AB47671100		無庫存		Glubose	利糖順錠50mg						
 BC26778100		袋袋散藥		Inovelon	克雷葛 膜衣錠 400毫克						
-NC00261100		抽屜散藥		JOHNLAX	通便樂腸溶錠						
+NC00261100		袋袋散藥		JOHNLAX	通便樂腸溶錠						
 AB55028100		袋袋散藥		IRBETAN F.C	爾壓順 膜衣錠150mg						
 AC56789100		袋袋散藥		JFS FCT "ROOT"	源諾膜衣錠180mg						
 AC24474100		無庫存		LIDIN	立定錠300毫克						
@@ -838,10 +838,10 @@ AC50123100		袋袋散藥		LOCEMINE F.C.	樂洩敏膜衣錠5mg
 AB55990100		無庫存		MOSA F.C.	摩暢膜衣錠5mg						
 AC34854100		袋袋散藥		MACALOL SOFT	骨活醇軟膠囊0.25微克						
 AC02368100		無庫存		NADIS	納迪斯錠						
-AC290341G0		袋袋散藥		METHYCOBAL	彌可保膠囊250微公克						
+AC290341G0		無庫存		METHYCOBAL	彌可保膠囊250微公克						
 AC50772100		無庫存		MYCROS	脈可洛適錠0.5mg						
 AC416411G0		袋袋散藥		NAKAMIDE F.C. TABLETS 2.5MG "N.K."	"南光"壓利得膜衣錠2.5毫克						
-AC52354100		袋袋散藥		NEOCETIN F.C	好克敏膜衣5mg						
+AC52354100		無庫存		NEOCETIN F.C	好克敏膜衣5mg						
 AB49518100		袋袋散藥		NEUROQUEL F.C.	腦樂靜 膜衣錠100mg						
 BC18842100		袋袋散藥		NIMOTOP F.C. TABLETS 30MG	腦妥膜衣錠30毫克						
 AC269841G0		無庫存		PEACE	鼻福錠						
@@ -851,10 +851,10 @@ AC58256100		袋袋散藥		PAROXIN	百樂行膜衣錠20毫克
 AB49021100		袋袋散藥		PRATIN	脂樂潔錠20mg						
 BC22767100		袋袋散藥		Risperdal	理思必妥 膜衣錠１毫克						
 A012556109		無庫存		ShecoGranules	捨咳顆粒8mg			$10/包			
-BC22768100		袋袋散藥		RISPERDAL	理思必妥膜衣錠２毫克						
+BC22768100		無庫存		RISPERDAL	理思必妥膜衣錠２毫克						
 AB57940100		袋袋散藥		ROSULATOR F.C. 	利降脂膜衣錠10mg						
 AC274451G0		袋袋散藥		SANDEL S.C. 	心滴舒糖衣錠50mg						
-AC110121G0		袋袋散藥		SKETA 	弛刻達膠囊						
+AC110121G0		無庫存		SKETA 	弛刻達膠囊						
 AB25402100		袋袋散藥		SOLACON	舒可樂錠200mg						
 AC367491G0		袋袋散藥		SOMA CAPSULES	舒肌痛膠囊						
 AC315341G0		健A區		STABLE	血得平錠２５毫克						
@@ -875,7 +875,7 @@ A000096100		無庫存		Menna	明那膠囊50mg			$20/排
 AC413521G0		內G區		Ulstop	悅潰止膜衣錠20mg		正和	$20/排			
 無健保給付		內E區			骨永壯膠囊250mg		永信	$20/排			
 AB51714100		健A區		MIGBOSE F.C. TABLETS 50MG	麥若醣 膜衣錠50毫克	MIGLITOL 50 MG	生達	$60/排			
-AB48878100		袋袋散藥		VAKIN CHRONO	妥撫癲持續性藥效膜衣錠500mg						
+AB48878100		無庫存		VAKIN CHRONO	妥撫癲持續性藥效膜衣錠500mg						
 AC38291100		袋袋散藥		WEIMOK F.C. TABLETS 40MG (FAMOTIDINE) "WEIDAR"	胃莫潰膜衣錠４０公絲						
 AC45414100		袋袋散藥		ZAPINE	來特平錠100mg						
 AC09299100		無庫存		LIGILIN CAPSULES	鋰齊寧膠囊						
@@ -899,3 +899,4 @@ X000262100		抽屜散藥		HYDRALAZINE HYDROCHLORIDE 50MG	(專案進口)凱沛爾
 AC44331100		前台抽屜D		FINTA F.C TABLETS 5MG	"南光"快得膜衣錠５公絲	FINASTERIDE 5 MG					
 AC403991G0		抽屜散藥		FORFLOW SUSTAINEDRELEASED TABLETS 400MG	"美時"福流持續釋放錠400毫克	PENTOXIFYLLINE 400 MG					
 AC194181G0		袋袋散藥		DECONE TABLETS "SINPHAR"	"杏輝" 得康錠	DEXAMETHASONE 0.5 MG					
+BC28181100		抽屜散藥		CRETROL TAB. 10/10 MG	脂瑞妥錠10/10毫克	ROSUVASTATIN CALCIUM 10.4 MG/EZETIMIBE 10 MG					
