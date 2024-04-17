@@ -892,7 +892,7 @@ AB515971G0		抽屜散藥		Mirobect Tablet 50 MG	脈樂必克膜衣錠50毫克	AT
 BC266371G0		抽屜散藥		Metsafe 1000 ER	抑糖穩緩釋錠1000毫克	METFORMIN HCL 1000 MG					
 AC19461100		抽屜散藥		METHYLDOPA F.C. TABLETS "JOHNSON"	強生"脈得保膜衣錠	METHYLDOPA ANHYDROUS 250 MG					
 AC49763100		抽屜散藥		NOLIDIN TABLETS"Y.C."	〝元宙〞胃瑞美錠	BUTINOLIN PHOSPHATE 2 MG/DRIED ALUMINUM HYDROXIDE GEL 200 MG/CALCIUM CARBONATE 300 MG					
-AC57267100		抽屜散藥		Atotin 10mg	立脂定10mg	Atorvastatin 10mg					
+AC57267100		袋袋散藥		Atotin 10mg	立脂定10mg	Atorvastatin 10mg					
 NC052251G0		抽屜散藥		Sodium bicarbonate 0.3g	碳酸氫鈉片0.3克	Sodium bicarbonate 0.3g					
 AB46016100		內H區		TAMLOSIN S.R. CAPSULES 0.2MG	"生達" 暢利淨持續釋放膠囊0.2公絲	TAMSULOSIN HCL 0.2 MG					
 X000262100		抽屜散藥		HYDRALAZINE HYDROCHLORIDE 50MG	(專案進口)凱沛爾50mg	Hydralazine 50mg					
@@ -902,3 +902,74 @@ AC194181G0		袋袋散藥		DECONE TABLETS "SINPHAR"	"杏輝" 得康錠	DEXAMETHAS
 BC28181100		抽屜散藥		CRETROL TAB. 10/10 MG	脂瑞妥錠10/10毫克	ROSUVASTATIN CALCIUM 10.4 MG/EZETIMIBE 10 MG					
 BC27011100		抽屜散藥		MEGAZON PROLONGED-RELEASE TABLETS 50MG	美加柔持續性藥效膜衣錠50毫克	QUETIAPINE FUMARATE 57.56 MG					
 BC22118100		抽屜散藥		NEOTIGASON CAPSULES 10MG	新定康癬膠囊１０毫克	ACITRETIN 10 MG					
+B023731		管制藥		Concerta Extended Release Tablets 18mg	專思達長效錠18毫克	Methylphenidate18mg					
+B023880		管制藥		Concerta Extended Release Tablets 36mg	專思達長效錠36毫克	Methylphenidate36mg					
+A048472		管制藥		Fallep Tablets 2mg	服爾眠錠2毫克	Flunitrazepam2mg					
+B021726		管制藥		Halcion Tablets 0.25mg	酣樂欣錠0.25毫克	Triazolam0.25mg					
+A060152		管制藥		Methydur Sustained Release Capsules 33mg	思有得持續性藥效膠囊33毫克	Methylphenidate33mg					
+A045779		管制藥		MODIPANOL F.C. TABLETS 1MG 〝SWISS〝	〝瑞士〝 美得眠膜衣錠１毫克	Flunitrazepam1mg					
+A037997		管制藥		MODIPANOL TABLET 2MG  〝SWISS〝 (FLUNITRAZEPAM)	〝瑞士〞美得眠錠２毫克（氟耐妥眠）	Flunitrazepam2mg					
+B025332		無庫存		RITALIN LA CAPSULES 10MG	利長能持續性藥效膠囊10毫克	Methylphenidate10mg					
+B025333		管制藥		RITALIN LA CAPSULES 20MG	利長能持續性藥效膠囊20毫克	Methylphenidate20mg					
+B027080		管制藥		Ritalin Tablets 10mg	利他能錠10毫克	Methylphenidate10mg					
+A044685		管制藥		ALPRALINE TABLETS 0.5MG	〝信東〝 安柏寧錠0.5毫克	Alprazolam0.5mg					
+A057740		管制藥		Alprazolam Tablets 0.5mg 〝CYH〝	安邦錠0.5毫克	Alprazolam0.5mg					
+A058561		管制藥		Anxicam Tablets 2mg	安心平錠2毫克	Lorazepam2mg					
+A024463		無庫存		ANXIEDIN TABLETS 0.5MG (LORAZEPAM)	〝優良〝 安靜錠0.5毫克（樂耐平）	Lorazepam0.5mg					
+B018741		管制藥		Ativan Tablets 0.5mg	安定文錠0.5毫克	Lorazepam0.5mg					
+A026080		管制藥		BROMAZIN TABLETS 3MG 〝Johnson〝(BROMAZEPAM)	〝強生〝 牟靜錠３毫克（布馬平）	Bromazepam3mg					
+A043597		管制藥		CAMADOL CAPSULES 50MG (TRAMADOL HCL)	卡莫德膠囊５０公絲	Tramadol50mg					
+A045342		管制藥		CLONOPAM TABLETS 0.5MG (CLONAZEPAM)	克癇平錠０．５毫克 (可那氮平)	Clonazepam0.5mg					
+A045345		管制藥		CLONOPAM TABLETS 2MG (CLONAZEPAM)	克癇平錠２毫克 (可那氮平)	Clonazepam2mg					
+A036679		管制藥		Dalmadorm Capsules 15mg (Flurazepam)	當眠多膠囊１５毫克(氟路洛)	Flurazepam15mg					
+A036677		管制藥		DALMADORM CAPSULES 30MG ( FLURAZEPAM)	當眠多膠囊３０毫克（氟路洛）	Flurazepam30mg					
+A030507		管制藥		DIAZEPAM TABLETS 2MG 〝YUNG SHIN〝	煩靜錠２毫克（二氮平）	Diazepam2mg					
+B017577		管制藥		DORMICUM FILM-COATED TABLETS 7.5MG	導美睡錠7.5毫克	Midazolam7.5mg					
+N010468		管制藥		DUPIN TABLETS	樂平片	Diazepam5mg					
+A037577		管制藥		ERA TABLET 0.25MG (FLUDIAZEPAM) 〝T.T.Y.〝ERA	〝台灣東洋〝 易舒錠0.25毫克（氟二氮平）	Fludiazepam0.25mg					
+A046729		管制藥		ERISPAN-S TABLETS 0.25MG	〝生達〝癒利舒盼錠 0.25毫克	Fludiazepam0.25mg					
+A042646		管制藥		ESZO TABLETS 2MG (ESTAZOLAM)	〝信東〝 艾斯樂錠2毫克（伊塔諾浪）	Estazolam2mg					
+A012458		管制藥		EURODIN TABLETS 2MG	悠樂丁錠２公絲	Estazolam2mg					
+A041519		管制藥		FLUPINE TABLETS 0.25MG (FLUDIAZEPAM) 〝JOHNSON〝	〝強生〝 福安源錠０．２５公絲（氟二氮平）	Fludiazepam0.25mg					
+B023071		管制藥		FRISIUM TABLET 10MG	〝漢德克〝 服利寧錠１０毫克	Clobazam10mg					
+A043460		管制藥		Genclone 7.5mg F.C.T.	健康得眠膜衣錠7.5毫克	Zopiclone7.5mg					
+B018158		管制藥		Imovane 7.5mg	宜眠安錠	Zopiclone7.5mg					
+A042686		管制藥		KINAX TABLETS 0.5MG (ALPRAZOLAM)	景安寧錠0.5毫克(三氮二氮平)	Alprazolam0.5mg					
+A044029		管制藥		KINZOLAM TABLETS 2MG	金座錠２公絲	Estazolam2mg					
+A033929		管制藥		LARPAM TABLETS 2MG (LORAZEPAM) 〝S.D.〝	〝世達〝 樂眠錠２毫克	Lorazepam2mg					
+B025713		管制藥		Lendormin (R) 0.25mg Tablets	戀多眠(R)錠0.25毫克 (法國廠)	Brotizolam0.25mg					
+B004459		管制藥		Lexotan Tablets 1.5mg	立舒定錠1.5毫克	Bromazepam1.5mg					
+B004457		管制藥		Lexotan Tablets 3mg	立舒定錠3毫克	Bromazepam3mg					
+A027849		管制藥		LOWEN TABLETS 0.5MG (LORAZEPAM) 〝C.C.P.〝	〝中國化學〝 樂穩錠０．５公絲（樂耐平）	Lorazepam0.5mg					
+A042770		管制藥		MUACTION SUSTAINED RELEASE TABLETS 100MG 〝Lotus〝 (TRAMADOL HYDROCHLORIDE)	〝美時〝 妙而通持續釋放錠１００毫克（鹽酸妥美度）	Tramadol100mg					
+A049166		管制藥		Onsleep  Capsules 10mg “Standard”(Zaleplon)	“生達”入眠順膠囊 10 毫克	Zaleplon10mg					
+A058168		無庫存		Opicet F.C. Tablets	奧必膜衣錠	Tramadol37.5mg					
+N013419		管制藥		PHENOBARBITAL TABLETS 〝Y.Y.〝	〝應元〝 苯巴比特魯錠	Phenobarbital30mg					
+B003077		管制藥		RIVOTRIL 0.5MG TABLET	利福全0.5毫克錠	Clonazepam0.5mg					
+B003078		管制藥		RIVOTRIL 2MG TABLET	利福全2毫克錠	Clonazepam2mg					
+A031295		管制藥		SEANTO CAPSULES 10MG (OXAZOLAM) 〝KOJAR〝	〝國嘉〝 舒安得膠囊１０毫克（歐拉）	Oxazolam10mg					
+A027082		管制藥		SECORIN CAPSULES 10MG 〝STANDARD〝 (OXAZOLAM)	“生達”益可寧膠囊１０毫克（歐拉）	Oxazolam10mg					
+A028649		管制藥		SECORIN S.C.TABLET 10MG 〝STANDARD〝 (OXAZOLAM)	“生達”益可寧糖衣錠１０毫克（歐拉）	Oxazolam10mg					
+A044463		管制藥		SEMI-NAX F.C. TABLETS 10MG 〝D.T.〝	〝鼎泰〝 舒眠諾思膜衣錠10毫克	Zolpidem10mg					
+A019247		管制藥		SILENCE TABLETS (LORAZEPAM) 〝YUNG SHIN〝	〝永信〝 悠然錠（樂耐平）	Lorazepam1mg					
+N003676		管制藥		Sleepin Tablets 〝Johnson〝	〝強生〝 速入眠錠	Nitrazepam5mg					
+B024677		管制藥		Stilnox CR Tablet 6.25 mg	使蒂諾斯長效錠6.25毫克	Zolpidem6.25mg					
+A042227		管制藥		SYNDOMAN CAPSULES 15MG (FLURAZEPAM HYDROCHLORIDE)〝S.T.〝	〝信東〝 欣得眠膠囊15毫克	Flurazepam15mg					
+A056706		無庫存		Traceton Film Coated Tablets	服安痛膜衣錠	Tramadol37.5mg					
+A057779		管制藥		Tramacet F.C. Tablets	〝五洲〝妥美亭膜衣錠	Tramadol37.5mg					
+B021840		管制藥		TRAMAL RETARD 100MG	〝克能達〝 舒敏長效錠劑	Tramadol100mg					
+B023917		無庫存		Ultracet Tablets	及通安錠	Tramadol37.5mg					
+A057777		管制藥		Utraphen F.C. Tablets 37.5mg_325mg 〝Standard〝 (Tramadol HCl + Acetaminophen)	〝生達〝立除痛膜衣錠37.5毫克_325毫克	Tramadol37.5mg / Acetamicophen 325mg					
+A025058		管制藥		VANCONIN TABLETS 2MG (DIAZEPAM) 〝VPP〝	〝榮民〝 煩可寧錠２公絲（二氮平）	Diazepam2mg					
+A027943		管制藥		VANCONIN TABLETS 5MG	〝榮民〝 煩可寧錠５毫克	Diazepam5mg					
+B021234		管制藥		Xanax Tablets 0.25mg	贊安諾錠0.25毫克	Alprazolam0.25mg					
+B021140		管制藥		Xanax Tablets 0.5mg	贊安諾錠0.5毫克	Alprazolam0.5mg					
+B021698		管制藥		Xanax XR Extended-release Tablets 0.5mg	贊安諾持續性藥效錠0.5毫克	Alprazolam0.5mg					
+A049217		管制藥		Zodenox Film Coated Tablets 10mg“Yung Shin”	“永信”悠眠 膜衣錠 10 毫克	Zolpidem10mg					
+A044605		管制藥		ZOLNOX F.C. TABLETS 10MG	樂必眠膜衣錠10毫克	Zolpidem10mg					
+A046013		管制藥		ZOLON FILM COATED TABLETS 7.5MG (ZOPICLONE)	〝信東〝 樂比克膜衣錠7.5毫克	Zopiclone7.5mg					
+A057306		管制藥		Zolpidem F.C. Tablets 10mg 〝CYH〝	柔拍膜衣錠10毫克	Zolpidem10mg					
+B021531		管制藥		STILNOX FILM-COATED SCORED TABLETS 10MG	使蒂諾斯膜衣錠10毫克	Zolpidem10/mg					
+B026598		管制藥		Wontran ER	保寧 緩釋錠	Tramadol75/mg					
+A021996		管制藥		OPIUM AND GLYCYRRHIZA MIXTURE TABLETS 〝ASTAR〝	複方鴉片甘草合劑錠	Opium mixed preparations2.5/mg					
+A024885		管制藥		ANXIEDIN TABLETS 1MG (LORAZEPAM)	〝優良〝 安靜錠1毫克（樂耐平）	Lorazepam1/mg					
