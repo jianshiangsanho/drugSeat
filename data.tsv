@@ -155,8 +155,8 @@ AC55118100		內H區		URIEF	優列扶膠囊4mg
 AC58838100		內H區		URIEF F.C.	優列扶 膜衣錠4mg						
 AA57950100		抽屜散藥		ATOVER F.C. TABLETS 20MG "P.L.	"培力"抑脂妥膜衣錠20毫克						
 AC44602100		無庫存		BIDOPAR	拜渡帕錠２５/２５０毫克						
-BC26996100		抽屜散藥		BRINTELLIX	敏特思膜衣錠10毫克						
-BC26914100		抽屜散藥		Capecitabine	艾卡培"艾威群"膜衣錠500毫克						
+BC28599100		抽屜散藥		BRINTELLIX	敏特思膜衣錠10毫克						
+BC26914100		抽屜散藥		Capecitabine Alvogen 500mg	艾卡培"艾威群"膜衣錠500毫克						
 AC48309100		抽屜散藥		Carvio Tablets 6.25mg	鬱心平錠6.25毫克						
 BC21757100		抽屜散藥		CELLCEPT	山喜多膠囊２５０毫克						
 BC25326100		無庫存		COPLAVIX	可保栓通膜衣錠75毫克/100毫克						
@@ -171,8 +171,8 @@ BC22861100		抽屜散藥		EXELON CAPSULES	憶思能膠囊1.5毫克
 BC22863100		抽屜散藥		EXELON CAPSULES	憶思能膠囊4.5毫克						
 BC260293C8		抽屜散藥		EXELON PATCH	憶思能穿皮貼片10						
 BC252343FA		抽屜散藥		EXELON PATCH 5	憶思能穿皮貼片5						
-AC59771100		抽屜散藥		EXNORTAN	易德壓悅膜衣錠5/160毫克						
-AC59872100		抽屜散藥		Fofnir	芙?寧膜衣錠300毫克						
+AC59771100		無庫存		EXNORTAN	易德壓悅膜衣錠5/160毫克						
+AC59872100		無庫存		Fofnir	芙?寧膜衣錠300毫克						
 BC26328100		抽屜散藥		Fycompa	癲控達膜衣錠2毫克						
 AC47913100		抽屜散藥		Gestrin	佑汝膠囊2.5毫克						
 BC24006100		抽屜散藥		GLUCOVANCE	庫魯泛斯錠 500公絲/5公絲						
@@ -182,7 +182,7 @@ BC24732100		抽屜散藥		INVEGA	思維佳持續性藥效錠 3毫克
 BC25158100		抽屜散藥		INVEGA	思維佳持續性藥效錠 9毫克						
 BC13086121		健A區		KALIMAT	加利美粉						
 AC49059100		抽屜散藥		KONAX	咳諾長效膜衣錠 60 毫克						
-AC57857100		抽屜散藥		Montelukast	息喘膜衣錠10毫克						
+AC57857100		無庫存		Montelukast	息喘膜衣錠10毫克						
 BC25224100		抽屜散藥		MULTAQ	脈泰克膜衣錠400						
 BC23737100		抽屜散藥		MYFORTIC 	睦體康１８０毫克						
 AC43823100		無庫存		NATON-S.R.TABLETS 750 "EVEREST"	"永勝"拿痛長效持續性藥效錠７５０毫克						
@@ -639,7 +639,7 @@ BC26124100		健B區	四	Eliquis	艾必克凝膜衣錠2.5mg	Apixaban 2.5 MG	輝�
 BC26133100		健B區	四	Eliquis	艾必克凝膜衣錠5MG	Apixaban 5 MG	輝瑞	$1900/盒			
 BC24708100		健B區	四	Eltroxin	昂特欣錠100mcg	LEVOTHYROXINE SODIUM 0.1 MG	安沛	$200/瓶			
 BC25533100		健B區	四	Eltroxin	昂特欣錠50mcg	LEVOTHYROXINE SODIUM 0.05 MG	安沛	$200/瓶			
-AC59028100		抽屜散藥	四	ENTAPON	恩克帕膜衣錠200mg	ENTACAPONE 200 MG					
+AC59028100		抽屜散藥		ENTAPON	恩克帕膜衣錠200mg	ENTACAPONE 200 MG					
 BC26671100		健B區	四	Entresto	健安心膜衣錠200mg	SACUBITRIL/VALSARTAN AS SACUBITRIL VALSARTAN SODIUM SAL 200 MG	諾華	$5000/盒			
 BC26672100		健B區	四	ENTRESTO	健安心100mg	SACUBITRIL/VALSARTAN AS SACUBITRIL VALSARTAN SODIUM SAL 100 MG					
 AC57883100		健B區	四	Evoxac	愛我津膠囊30mg	Cevimeline HCl 30 MG					
@@ -973,3 +973,4 @@ B021531		管制藥		STILNOX FILM-COATED SCORED TABLETS 10MG	使蒂諾斯膜衣�
 B026598		管制藥		Wontran ER	保寧 緩釋錠	Tramadol75/mg					
 A021996		管制藥		OPIUM AND GLYCYRRHIZA MIXTURE TABLETS 〝ASTAR〝	複方鴉片甘草合劑錠	Opium mixed preparations2.5/mg					
 A024885		管制藥		ANXIEDIN TABLETS 1MG (LORAZEPAM)	〝優良〝 安靜錠1毫克（樂耐平）	Lorazepam1/mg					
+BC28598100		抽屜散藥		BRINTELLIX	敏特思膜衣錠5毫克						
