@@ -194,7 +194,7 @@ BC22779100		內H區		SINGULAIR	欣流咀嚼錠5毫克
 AC59215100		抽屜散藥		SOLIN	頌寧膜衣錠5毫克						
 BC24517100		無庫存		Strattera	思銳膠囊40毫克						
 BC23381100		無庫存		TOPAMAX SPRINKLE CA	妥泰分散型膠囊2５公絲						
-AC31113121	1	桌上藥藍		Abilify	安立復5mg	Aripiprazole	大塚	$430/排	精神分裂症	FALSE	
+BC24046100	1	桌上藥藍		Abilify	安立復5mg	Aripiprazole	大塚	$430/排	精神分裂症	FALSE	
 BC27750100		健D區		Xarelto film-coated tablets 2.5mg	拜瑞妥膜衣錠2.5毫克						
 AB56698343		無庫存		ZALAIN EXTERNAL GEL	達來外用凝膠2%						
 BC24047100	2	桌上藥藍		Abilify	安立復10mg	Aripiprazole	大塚	$620/排	精神分裂症	TRUE	
@@ -900,7 +900,7 @@ AC44331100		前台抽屜D		FINTA F.C TABLETS 5MG	"南光"快得膜衣錠５公�
 AC403991G0		抽屜散藥		FORFLOW SUSTAINEDRELEASED TABLETS 400MG	"美時"福流持續釋放錠400毫克	PENTOXIFYLLINE 400 MG					
 AC194181G0		袋袋散藥		DECONE TABLETS "SINPHAR"	"杏輝" 得康錠	DEXAMETHASONE 0.5 MG					
 BC28181100		抽屜散藥		CRETROL TAB. 10/10 MG	脂瑞妥錠10/10毫克	ROSUVASTATIN CALCIUM 10.4 MG/EZETIMIBE 10 MG					
-BC27011100		抽屜散藥		MEGAZON PROLONGED-RELEASE TABLETS 50MG	美加柔持續性藥效膜衣錠50毫克	QUETIAPINE FUMARATE 57.56 MG					
+BC27011100		抽屜散藥		MEGAZON PROLONGED-RELEASE TABLETS 50MG	美加柔持續性藥效膜衣錠50毫克(客訂)	QUETIAPINE FUMARATE 57.56 MG					
 BC22118100		抽屜散藥		NEOTIGASON CAPSULES 10MG	新定康癬膠囊１０毫克	ACITRETIN 10 MG					
 B023731		管制藥		Concerta Extended Release Tablets 18mg	專思達長效錠18毫克	Methylphenidate18mg					
 B023880		管制藥		Concerta Extended Release Tablets 36mg	專思達長效錠36毫克	Methylphenidate36mg					
@@ -973,4 +973,5 @@ B021531		管制藥		STILNOX FILM-COATED SCORED TABLETS 10MG	使蒂諾斯膜衣�
 B026598		管制藥		Wontran ER	保寧 緩釋錠	Tramadol75/mg					
 A021996		管制藥		OPIUM AND GLYCYRRHIZA MIXTURE TABLETS 〝ASTAR〝	複方鴉片甘草合劑錠	Opium mixed preparations2.5/mg					
 A024885		管制藥		ANXIEDIN TABLETS 1MG (LORAZEPAM)	〝優良〝 安靜錠1毫克（樂耐平）	Lorazepam1/mg					
-BC28598100		抽屜散藥		BRINTELLIX	敏特思膜衣錠5毫克						
+BC28598100		抽屜散藥		BRINTELLIX	敏特思膜衣錠5毫克	Vortioxetine hydrobromide 5 MG					
+BC22859100		抽屜散藥		EXELON CAPSULES 6MG	憶思能膠囊6毫克	RIVASTIGMINE (HYDROGEN TARTRATE) 6 MG					
